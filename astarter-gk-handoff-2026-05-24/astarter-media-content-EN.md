@@ -1,10 +1,10 @@
 # Astarter Project Promotional Content
 
-**Full Media Pack · English Version · v10**
+**Full Media Pack · English Version · v11**
 2026.05.24
 
-20 project dynamics · Full short flashes · Headline options · Companion visuals
-Project introduction + 10 core advantages + fact-check table
+14 project dynamics · Full short flashes · Headline options · Companion visuals
+Project introduction + 9 core advantages + fact-check table
 
 🌐 astarter.io · 🐦 @AstarterDefiHub
 📰 Cointime feature: https://cn.cointime.ai/news/astarter-web4-x-defai-ji-chu-she-shi-ping-tai-huo-okx-ventures-yu-emurgo-shuang-ling-tou-71920
@@ -27,7 +27,7 @@ Within the next 6–12 months, Astarter will accelerate global ABox node deploym
 
 # II. Astarter Core Project Advantages
 
-The following 10 core advantages are based on publicly verifiable factual statements, suitable as context for media reporting.
+The following 9 core advantages are based on publicly verifiable factual statements, suitable as context for media reporting.
 
 ## 01 · Top-Tier Institutional Capital Backing
 
@@ -61,19 +61,15 @@ Three key media milestones already completed: May 12 Twitter Space with Cointime
 
 Within the next 6–12 months, Astarter will accelerate global ABox node deployment and launch the AI Application Marketplace, further strengthening AI Agents infrastructure capabilities. Projects with execution paths as specific, near-term, and verifiable as this are relatively rare in the AI Agent category.
 
-## 09 · AA Token Economic Model Foundation Ready
-
-The AA Token completed its AA1→AA2 economic model upgrade transition in November 2025. Fixed maximum supply: 100 million units, no inflation mechanism. Within the stack, the token simultaneously serves four roles: unit of account for agent-to-agent settlement, payment medium for DePIN compute, governance instrument, and collateral primitive for agent-issued credit. Specific allocation breakdown and unlock schedule please refer to the latest version being updated on Astarter's official website.
-
-## 10 · Web4 AI Agent Chinese Narrative Leadership
+## 09 · Web4 AI Agent Chinese Narrative Leadership
 
 The Astarter deep-dive feature published on Cointime is the first systematically articulated Web 4.0 AI Agent economy thesis in Chinese-language crypto media. The article references 2026 research from Messari, a16z, and Delphi, positioning Astarter as an early entrant in the AI Agent infrastructure market (projected to exceed $50 billion by 2030).
 
 ---
 
-# III. Recent Project Dynamics (20 entries)
+# III. Recent Project Dynamics (14 entries)
 
-The following 20 project dynamics can each be independently distributed to any Chinese crypto media outlet. Each includes 3 headline options and a short flash. All facts come from verified sources: Astarter official announcements, Mango Finance 5/14 article, Cointime 5/24 feature.
+The following 14 project dynamics can each be independently distributed to any Chinese crypto media outlet. Each includes 3 headline options and a short flash. All facts come from verified sources: Astarter official announcements, Mango Finance 5/14 article, Cointime 5/24 feature.
 
 ---
 
@@ -127,15 +123,9 @@ As one of the world's leading Web3 social platforms, UXLINK promotes large-scale
 
 ### Short Flash
 
-On May 12, 2026 at 20:00 (UTC+8), Cointime and Astarter co-hosted a Twitter Space titled "AI Agents as the Autonomous Execution Layer of Web4." Hosted by Ayelle (@ayelleley), the Space convened multiple key project representatives from the AI Agent × Web4 space:
+On May 12, 2026 at 20:00 (UTC+8), Cointime and Astarter co-hosted a Twitter Space titled "AI Agents as the Autonomous Execution Layer of Web4." Hosted by Ayelle (@ayelleley), the Space convened multiple key project representatives from the AI Agent × Web4 space: Batman (AstarterDefiHub), Jakob (SumPlusReal co-founder), Sofija (BrcToTheMoon CMO), Austin (Global Ambassador), Darkan (OriginsNetwork core team).
 
-- Batman | AstarterDefiHub (@BatmanTheGuard)
-- Jakob | Co-founder of SumPlusReal (@JakobJJJJJX)
-- Sofija | CMO of BrcToTheMoon (@Web3Coka)
-- Austin | Global Ambassador (@DOVEagent_AI)
-- Darkan | Core Team, OriginsNetwork (@cryptodarkan)
-
-Discussion focused on three themes: (1) project focus areas within the AI Agent × Web4 space; (2) which sector AI Agents will disrupt first (DeFi / trading / on-chain asset management); (3) top actionable opportunities over the next 6–12 months. This Space served as a milestone event in the Astarter × Cointime media partnership matrix, laying the narrative foundation for the subsequent feature publication.
+Discussion focused on three themes: project focus areas within the AI Agent × Web4 space; which sector AI Agents will disrupt first (DeFi / trading / on-chain asset management); top actionable opportunities over the next 6–12 months. This Space served as a milestone event in the Astarter × Cointime media partnership matrix, laying the narrative foundation for the subsequent feature publication.
 
 🔗 Space replay: https://x.com/i/spaces/1akbd/i/spaces/1KbdbAWnBkJX
 
@@ -176,23 +166,7 @@ As the DeFAI category (Decentralized Finance × Autonomous AI Execution) rapidly
 
 ---
 
-## Dynamic 06 — AA Token AA1→AA2 Transition Complete
-
-### Headline Options
-
-1. Astarter Completes AA Token AA1→AA2 Economic Model Transition — Foundation Set for TGE
-2. One Token, Four Roles | Astarter AA Token AA1→AA2 Upgrade Complete
-3. Why AA Token Is Structurally Important in AI Agent Economy Infrastructure
-
-### Short Flash
-
-Cardano-based project Astarter completed its AA Token AA1→AA2 economic model upgrade transition in November 2025, clearing the foundational tokenomics work required ahead of formal market launch. The AA Token has a fixed maximum supply of 100 million units. Within the Astarter stack, the token simultaneously serves four roles: unit of account for agent-to-agent settlement, payment medium for DePIN compute, governance instrument, and collateral primitive for agent-issued credit. Specific allocation breakdown, unlock schedule, and listing arrangements please refer to the latest version being updated on Astarter's official website.
-
-`astarter.io · @AstarterDefiHub`
-
----
-
-## Dynamic 07 — Four-Product DeFi Stack Repositioning
+## Dynamic 06 — Four-Product DeFi Stack Repositioning
 
 ### Headline Options
 
@@ -208,7 +182,7 @@ Astarter's four products — Launchpad, DEX, Money Market, Tech Service Platform
 
 ---
 
-## Dynamic 08 — Multi-Chain Expansion Roadmap Signal
+## Dynamic 07 — Multi-Chain Expansion Roadmap Signal
 
 ### Headline Options
 
@@ -224,7 +198,7 @@ Cardano-based infrastructure project Astarter has signaled a clear multi-chain e
 
 ---
 
-## Dynamic 09 — OKX Ventures × EMURGO Joint Lead Investment
+## Dynamic 08 — OKX Ventures × EMURGO Joint Lead Investment
 
 ### Headline Options
 
@@ -242,7 +216,7 @@ Astarter — decentralized AI + DeFi (DeFAI) infrastructure built for Web4 — h
 
 ---
 
-## Dynamic 10 — Three-Layer Convergence Architecture
+## Dynamic 09 — Three-Layer Convergence Architecture
 
 ### Headline Options
 
@@ -259,7 +233,7 @@ Astarter has formally published a "three-layer convergence architecture" in rece
 
 ---
 
-## Dynamic 11 — Cardano Ecosystem AI Infrastructure Representative Project
+## Dynamic 10 — Cardano Ecosystem AI Infrastructure Representative Project
 
 ### Headline Options
 
@@ -269,78 +243,36 @@ Astarter has formally published a "three-layer convergence architecture" in rece
 
 ### Short Flash
 
-As the Cardano ecosystem accelerates positioning in AI and Web4 directions through 2026, Astarter — with its complete four-product DeFi stack, OKX Ventures + EMURGO joint lead capital structure, and clear positioning in the AI Agent economy — has emerged as one of the representative AI infrastructure projects in the Cardano ecosystem. Industry observers note that within the Cardano Chinese community and developer ecosystem, Astarter is currently the only project that publicly positions full-stack AI Agent infrastructure AND has completed foundational tokenomics work (the AA1→AA2 transition). This positioning provides Cardano with a concrete ecosystem anchor in the broader AI × Crypto trend.
+As the Cardano ecosystem accelerates positioning in AI and Web4 directions through 2026, Astarter — with its complete four-product DeFi stack, OKX Ventures + EMURGO joint lead capital structure, and clear positioning in the AI Agent economy — has emerged as one of the representative AI infrastructure projects in the Cardano ecosystem. Industry observers note that within the Cardano Chinese community and developer ecosystem, Astarter is currently a representative project publicly positioning full-stack AI Agent infrastructure. This positioning provides Cardano with a concrete ecosystem anchor in the broader AI × Crypto trend.
 
 `astarter.io · @AstarterDefiHub`
 
 ---
 
-## Dynamic 12 — Chinese Crypto Media Coverage Accumulation
+## Dynamic 11 — 6-12 Month Roadmap: ABox Node Deployment + AI Application Marketplace
 
 ### Headline Options
 
-1. Astarter Completes 5/12 Twitter Space + 5/14 Mango Finance + 5/24 Cointime Feature — Three Major Media Milestones
-2. From Twitter Space to Deep-Dive Feature: Astarter Chinese Media Coverage Path Recap
-3. Astarter's Three Consecutive Appearances in Chinese Crypto Media: Building Sustained Narrative
+1. Astarter Releases Dual 6-12 Month Roadmap: Global ABox Node Deployment + AI Application Marketplace Launch
+2. ABox + AI Application Marketplace | Astarter 6-12 Month Core Execution Priorities Announced
+3. From Infrastructure to Application Layer | Astarter Roadmap Coordinates ABox Nodes and AI Application Marketplace
 
 ### Short Flash
 
-As of end of May 2026, Astarter has completed three key media milestones on the Chinese crypto media side: May 12 Twitter Space co-hosted with Cointime titled "AI Agents as the Autonomous Execution Layer of Web4"; May 14 full project report published by Mango Finance (芒果财经网); May 24 deep-dive feature live on Cointime — *"Astarter Web4 × DeFAI Infrastructure Platform Secures Joint Lead Investment from OKX Ventures and EMURGO."* Three consecutive appearances establish Astarter's narrative position within the Cardano ecosystem AI infrastructure category. The Astarter team indicates continued coordination with additional media outlets in the coming weeks.
+Astarter — infrastructure project for the Web4 autonomous AI Agent ecosystem — has signaled a clear dual 6-12 month roadmap:
 
-`astarter.io · @AstarterDefiHub`
+First, **global ABox node deployment acceleration** — ABox nodes are Astarter's core infrastructure at the physical node layer, handling AI Agent execution, compute scheduling, and cross-regional coordination. Global node deployment is a critical step for reaching cross-regional AI Agent economic activity.
 
----
+Second, **AI Application Marketplace launch forthcoming** — providing more solid foundational support for the Web4 autonomous AI Agent ecosystem.
 
-## Dynamic 13 — ABox Node Global Deployment Acceleration
-
-### Headline Options
-
-1. Astarter to Accelerate Global ABox Node Deployment Within Next 6–12 Months
-2. Astarter Global ABox Node Deployment Plan Signals Strengthening of AI Agent Infrastructure Capability
-3. Why ABox Nodes Are the Key Step in Astarter's Global Expansion
-
-### Short Flash
-
-Astarter — infrastructure project for Web4 autonomous AI Agent ecosystem — has signaled clear global expansion: within the next 6–12 months, the team will accelerate global ABox node deployment, further strengthening AI Agents infrastructure capabilities. Global node deployment is a critical step for Astarter to reach cross-regional AI Agent economic activity, advancing in coordination with the multi-chain expansion roadmap to jointly form the project's core execution priorities within the 6–12 month window. Specific node deployment regions and timing will be announced in subsequent communications.
+Together, these constitute Astarter's core execution priorities within the 6-12 month window. Specific deployment regions, launch timing, initial marketplace applications, and developer access paths will be announced in subsequent communications.
 
 **Visual:** `visuals/banner-roadmap-1180x480.png`
 `astarter.io · @AstarterDefiHub`
 
 ---
 
-## Dynamic 14 — AI Application Marketplace Launch Forthcoming
-
-### Headline Options
-
-1. Astarter to Launch AI Application Marketplace — Strengthening Foundation for Web4 Autonomous AI Agent Ecosystem
-2. AI Application Marketplace | Core Component of Astarter's 6–12 Month Roadmap
-3. Astarter Publicly Previews AI Application Marketplace — Launching Alongside Global ABox Node Deployment
-
-### Short Flash
-
-Astarter — infrastructure project for the Web4 autonomous AI Agent ecosystem — has publicly previewed the launch of an AI Application Marketplace within the next 6–12 months, providing more solid foundational support for the Web4 autonomous AI Agent ecosystem. The AI Application Marketplace and global ABox node deployment together constitute Astarter's core execution priorities within the 6–12 month window. Specific launch timing, initial marketplace applications, and developer access paths will be announced in subsequent communications.
-
-`astarter.io · @AstarterDefiHub`
-
----
-
-## Dynamic 15 — DeFAI Real-World Implementation
-
-### Headline Options
-
-1. Astarter Driving DeFAI Toward Real-World Implementation — Continuously Expanding Global Ecosystem Footprint
-2. From Concept to Implementation | How Astarter Transforms DeFAI from Narrative to Executable Infrastructure
-3. DeFAI Is No Longer a Narrative — Astarter Is Making It Operate
-
-### Short Flash
-
-As AI and Web4 continue to converge, Astarter is driving DeFAI toward real-world implementation and continuously expanding its global ecosystem footprint. With its four-product DeFi stack operating since 2021, the multi-layer capital structure with OKX Ventures + EMURGO joint lead investment, the complete strategic alliance matrix covering UXLINK / AntFun / SumPlus / PayGo / ENI, and the specific execution path of 6–12 month ABox global deployment + AI Application Marketplace launch, Astarter has built a relatively complete execution combination in the DeFAI category.
-
-`astarter.io · @AstarterDefiHub`
-
----
-
-## Dynamic 16 — Astarter × AntFun Strategic Cooperation (Social DEX)
+## Dynamic 12 — Astarter × AntFun Strategic Cooperation (Social DEX)
 
 ### Headline Options
 
@@ -350,15 +282,13 @@ As AI and Web4 continue to converge, Astarter is driving DeFAI toward real-world
 
 ### Short Flash
 
-Astarter has announced a strategic partnership with next-generation Social DEX AntFun (@ant_fun_trade). Astarter's AI-native DeFAI infrastructure and autonomous AI Agent execution capability, combined with AntFun's ultra-low-rate social DEX and AI smart trading tools, will create a more intelligent, efficient, and socially attributed on-chain trading and pledge ecosystem for users.
-
-The two parties will jointly drive the next stage of DeFi × AI Agent × Social, with details of joint public relations and ecosystem integration to be announced.
+Astarter has announced a strategic partnership with next-generation Social DEX AntFun (@ant_fun_trade). Astarter's AI-native DeFAI infrastructure and autonomous AI Agent execution capability, combined with AntFun's ultra-low-rate social DEX and AI smart trading tools, will create a more intelligent, efficient, and socially attributed on-chain trading and pledge ecosystem for users. The two parties will jointly drive the next stage of DeFi × AI Agent × Social, with details of joint public relations and ecosystem integration to be announced.
 
 `astarter.io · @AstarterDefiHub · @ant_fun_trade`
 
 ---
 
-## Dynamic 17 — Astarter × SumPlus Strategic Cooperation (MCP DeFi Data Layer)
+## Dynamic 13 — Astarter × SumPlus Strategic Cooperation (MCP DeFi Data Layer)
 
 ### Headline Options
 
@@ -378,7 +308,7 @@ DeFi Data Layer × AI Agent Execution Layer × Astarter DePIN/DeFAI substrate �
 
 ---
 
-## Dynamic 18 — Astarter × PayGo Strategic Cooperation (AI-Native Payment)
+## Dynamic 14 — Astarter × PayGo Strategic Cooperation (AI-Native Payment)
 
 ### Headline Options
 
@@ -395,7 +325,7 @@ Astarter has announced a strategic partnership with PayGo (@PayGo). The combinat
 
 ---
 
-## Dynamic 19 — Astarter × ENI Public Chain Strategic Partnership
+## Dynamic 15 — Astarter × ENI Public Chain Strategic Partnership
 
 ### Headline Options
 
@@ -417,30 +347,6 @@ Astarter has officially announced a strategic partnership with ENI Public Chain 
 
 ---
 
-## Dynamic 20 — Astarter Ecosystem Officially Integrates MULAN Points
-
-### Headline Options
-
-1. Astarter Ecosystem Officially Integrates MULAN Points — Holders Unlock Full Ecosystem Privileges
-2. MULAN × Astarter Ecosystem Cooperation | Token Redemption + Launchpad Quota + NFT + Node Yields
-3. Astarter × MULAN Ecosystem Privileges Connected — Multi-Channel Unlock for Long-Term On-Chain Value
-
-### Short Flash
-
-Astarter ecosystem officially integrates MULAN Points. Holders of MULAN can unlock full ecosystem privileges:
-✅ Redeem 30% quota of native Astarter tokens
-✅ Access 30% allocation for premium Launchpad projects
-✅ Unlock MULAN NFT to gain daily passive point rewards
-✅ Join node program to share platform transaction fees
-
-MULAN Points serve as a privilege channel within the Astarter ecosystem, creating long-term value alignment with holders. Specific node participation thresholds, point acquisition, and unlock rules — please see official Astarter announcements.
-
-⚠️ This dynamic includes ecosystem privilege arrangements and does not constitute investment advice.
-
-`astarter.io · @AstarterDefiHub`
-
----
-
 # Companion Visual Asset List
 
 | # | Use | File |
@@ -449,13 +355,13 @@ MULAN Points serve as a privilege channel within the Astarter ecosystem, creatin
 | Dynamic 01 | Cointime feature launch | `visuals/dynamic-01-cointime-launch.png` (1080×1080) |
 | Dynamic 02 | UXLINK strategic alliance | `visuals/dynamic-02-uxlink-alliance.png` (1080×1080) |
 | Dynamic 05 | DeFAI category positioning | `visuals/dynamic-04-defai-positioning.png` (1080×1080) |
-| Dynamic 09 | Investor lineup | `visuals/banner-investors-1180x480.png` (1180×480) |
-| Dynamic 10 | Three-layer architecture | `visuals/dynamic-09-three-layer.png` (1080×1080) |
-| Dynamic 13 | 6–12 month roadmap | `visuals/banner-roadmap-1180x480.png` (1180×480) |
+| Dynamic 08 | Investor lineup | `visuals/banner-investors-1180x480.png` (1180×480) |
+| Dynamic 09 | Three-layer architecture | `visuals/dynamic-09-three-layer.png` (1080×1080) |
+| Dynamic 11 | 6–12 month roadmap | `visuals/banner-roadmap-1180x480.png` (1180×480) |
 
 ---
 
-# Fact-Check / Source Mapping (v10 Updated)
+# Fact-Check / Source Mapping (v11)
 
 | Fact | Source | Verification Level |
 |---|---|---|
@@ -471,10 +377,7 @@ MULAN Points serve as a privilege channel within the Astarter ecosystem, creatin
 | Astarter × SumPlus strategic partnership | Astarter X official | Tier 1 single-source |
 | Astarter × PayGo strategic partnership | Astarter X official | Tier 1 single-source |
 | Astarter × ENI Public Chain strategic partnership | Astarter X official | Tier 1 single-source |
-| MULAN Points ecosystem integration | Astarter X official | Tier 1 single-source |
 | 6–12 month ABox + AI App Marketplace | Mango Finance 5/14 | Tier 2 single-source |
-| AA Token fixed 100M supply | Astarter Medium + CoinMarketCap | Tier 1 + 2 |
-| AA Token allocation breakdown | Skipped — refer to official website (per GK direction) | n/a |
 | Four-product stack | CoinGecko + Astarter official site | Tier 1 + 2 |
 | Cardano native | CoinGecko + DefiLlama | Tier 2 ×2 |
 | EMURGO 2021 joint venture | EMURGO official press release | Tier 1 |
@@ -482,27 +385,32 @@ MULAN Points serve as a privilege channel within the Astarter ecosystem, creatin
 | AI Agent infrastructure market $8B → $50B+ | Citing Messari/a16z/Delphi 2026 research synthesis | Composite citation |
 | AI Agent economy four-layer architecture | Astarter / industry analytical framework | Analytical framework |
 
-### On "Tier 1 Single-Source" Treatment Principles
+---
 
-Astarter's official X account announcements are Tier 1 sources (project's own statements). When only the Astarter side has published (no corresponding partner-side announcement seen, possibly due to timing offset or not yet released):
+# v11 Revision Notes (vs v10)
 
-✅ **Can be used as normal** — these are the project's own public statements
-✅ **Reference partner X account** — let media editors verify with partner directly
-⚠️ **Don't exaggerate partnership depth** — no specific product integration timelines / amounts / exclusivity clauses → don't assume
-⚠️ **Avoid "officially signed"** — use "reached strategic cooperation" / "announced strategic cooperation" — safer
+Per GK 5/24 22:53 PM feedback:
+
+**Removed (AA Token related, per GK "don't mention for now"):**
+- ❌ Original Dynamic 06: AA Token AA1→AA2 transition
+- ❌ Original Advantage 09: AA Token economic model foundation
+- ❌ Original Dynamic 20: MULAN Points integration (contained native token redemption / airdrop incentive language)
+- ❌ Original Dynamic 11 phrase "completed tokenomics foundation work (AA1→AA2 transition)"
+
+**Removed (per GK "lots of overlap"):**
+- ❌ Original Dynamic 12: Media coverage accumulation (duplicate of Dynamic 01, 03, Project intro)
+- ❌ Original Dynamic 15: DeFAI 真实落地 (summary duplicate of other dynamics)
+
+**Merged:**
+- 🔀 Original Dynamic 13 (ABox nodes) + Original Dynamic 14 (AI App Marketplace) → New Dynamic 11 "6-12 Month Roadmap"
+
+**Result:**
+- 20 dynamics → **14 dynamics**
+- 10 advantages → **9 advantages**
+- Tighter content, no duplication, no AA Token references
 
 ---
 
-# Items Pending GK for Future Versions
-
-1. **AA Token allocation breakdown** — pending Astarter website update
-2. **ABox technical details** — to be provided later
-3. **CEO attributable quote** — currently unavailable
-4. **AntFun / SumPlus / PayGo / ENI / MULAN partnership integration timelines / amounts** — to be added if specific information becomes available
-5. **5 new partnership companion 1180×480 banners** — can be batch-produced using Figma template
-
----
-
-*Document version: v10 · 2026.05.24*
+*Document version: v11 · 2026.05.24*
 *Generated as: Markdown master document (human-editable) → DOCX + PDF (auto-generated)*
 *To modify content, edit this .md file directly and regenerate DOCX/PDF*
