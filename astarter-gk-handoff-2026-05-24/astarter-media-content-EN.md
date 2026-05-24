@@ -1,9 +1,9 @@
 # Astarter Project Promotional Content
 
-**Full Media Pack · English Version · v11**
+**Full Media Pack · English Version · v11.1**
 2026.05.24
 
-14 project dynamics · Full short flashes · Headline options · Companion visuals
+15 project dynamics · Full short flashes · Headline options · Companion visuals
 Project introduction + 9 core advantages + fact-check table
 
 🌐 astarter.io · 🐦 @AstarterDefiHub
@@ -67,9 +67,9 @@ The Astarter deep-dive feature published on Cointime is the first systematically
 
 ---
 
-# III. Recent Project Dynamics (14 entries)
+# III. Recent Project Dynamics (15 entries)
 
-The following 14 project dynamics can each be independently distributed to any Chinese crypto media outlet. Each includes 3 headline options and a short flash. All facts come from verified sources: Astarter official announcements, Mango Finance 5/14 article, Cointime 5/24 feature.
+The following 15 project dynamics can each be independently distributed to any Chinese crypto media outlet. Each includes 3 headline options and a short flash. All facts come from verified sources: Astarter official announcements, Mango Finance 5/14 article, Cointime 5/24 feature.
 
 ---
 
@@ -405,12 +405,12 @@ Per GK 5/24 22:53 PM feedback:
 - 🔀 Original Dynamic 13 (ABox nodes) + Original Dynamic 14 (AI App Marketplace) → New Dynamic 11 "6-12 Month Roadmap"
 
 **Result:**
-- 20 dynamics → **14 dynamics**
+- 20 dynamics → **15 dynamics** (4 deleted + 2 merged into 1)
 - 10 advantages → **9 advantages**
 - Tighter content, no duplication, no AA Token references
 
 ---
 
-*Document version: v11 · 2026.05.24*
+*Document version: v11.1 · 2026.05.24*
 *Generated as: Markdown master document (human-editable) → DOCX + PDF (auto-generated)*
 *To modify content, edit this .md file directly and regenerate DOCX/PDF*
