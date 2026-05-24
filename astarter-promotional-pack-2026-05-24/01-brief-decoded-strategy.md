@@ -2,20 +2,27 @@
 
 ## I. The brief, decoded
 
-### What Nicole asked for (Telegram, 2026-05-24)
+### What Nicole asked for (in HER Telegram conversation with GK — NOT with Zakky), 2026-05-24
 
 | Time | Message (CN) | Translation |
 |---|---|---|
 | 15:32 | 宣发文案麻烦你这边出一下内容哦 | "Please you produce promotional copy from your side" |
-| 15:33 (Zakky reply) | 宣发内容需要什么样的内容啊 | "What kind of promotional content?" |
-| 15:35 | **最近需要突出的项目动态** | "**Recent project dynamics that need to be highlighted**" |
-| 15:40 (Zakky) | 好的 | "OK" |
+| 15:33 (GK reply to Nicole) | 宣发内容需要什么样的内容啊 | "What kind of promotional content?" |
+| 15:35 (Nicole) | **最近需要突出的项目动态** | "**Recent project dynamics that need to be highlighted**" |
+| 15:40 (GK) | 好的 | "OK" |
 
-### What GK confirmed
+### What GK then asked Zakky (forwarded the Nicole screenshots + Cointime app screenshot)
 
 | Time | Message (CN) | Translation |
 |---|---|---|
-| 01:22 PM | 看看出一些内容给媒体宣传使用 | "Try producing some content for media promotional use" |
+| 01:22 PM (GK → Zakky) | 看看出一些内容给媒体宣传使用 | "Try producing some content for media promotional use" |
+| 01:22 PM (Zakky → GK) | Ok | "Ok" |
+
+### Relationship chain
+
+**Nicole (Cointime media) ↔ GK (project lead / Zakky's boss) ↔ Zakky (content producer)**
+
+Zakky does NOT message Nicole directly. All Zakky deliverables go to GK. GK handles all comms with Nicole + 飞哥.
 
 ### What this actually means in operational terms
 

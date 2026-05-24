@@ -1,7 +1,12 @@
 # Astarter 项目动态宣发内容包 / Promotional Content Pack
 
 **Folder created:** 2026-05-24
-**Trigger:** Cointime (Nicole) + GK asked for promotional copy covering Astarter's "**最近需要突出的项目动态 / recent project dynamics to highlight**", to be redistributed across Cointime's media network coordinated by **飞哥 (Fei-ge)**.
+
+**Trigger:** **GK** (project lead / Zakky's boss) is in direct conversation with **Nicole** at Cointime. Nicole asked GK for promotional copy covering Astarter's "**最近需要突出的项目动态 / recent project dynamics to highlight**", to be redistributed across Cointime's media network coordinated by **飞哥 (Fei-ge)**. GK forwarded the conversation context to Zakky with the instruction *"看看出一些内容给媒体宣传使用"* (produce some content for media promotion use).
+
+**Relationship chain:** Nicole (Cointime) ↔ **GK** (boss, comms interface) ↔ Zakky (content producer)
+
+**Critical:** Zakky does NOT message Nicole directly. All deliverables go to GK. GK handles Nicole + 飞哥.
 
 **Status of the Cointime long-form (v1 work):** ✅ Published. Visible at the time of writing in the Cointime app under 精选 as "ASTARTER引领 Web4 AI Agent 时代" by cointime子凡.
 
@@ -16,7 +21,8 @@
 | 00 | `00-README.md` | This file |
 | 01 | `01-brief-decoded-strategy.md` | Decoded Nicole + GK ask; strategic plan; distribution route |
 | 02 | `02-project-dynamics-master-list.md` | The 12 project dynamics we'll promote across (the spine of everything in this folder) |
-| 03 | `03-cointime-followup-message.md` | Ready-to-send TG reply to Nicole (CN + EN translation) |
+| 03 | `03-content-for-GK-to-send-nicole.md` | Content GK can directly copy-paste / forward to Nicole (Zakky does NOT message Nicole) |
+| 03b | `03b-gk-status-update-message.md` | Status report Zakky sends to GK after delivery |
 | 04 | `04-fei-ge-coordination-brief.md` | Coordination document for 飞哥's outlet routing |
 | 05 | `05-promo-flashes-CN.md` | 12 short CN flashes (150-250 字 each) — primary deliverable |
 | 06 | `06-promo-flashes-EN.md` | EN versions of the 12 flashes |
