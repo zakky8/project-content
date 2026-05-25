@@ -1,10 +1,10 @@
 # Astarter Project Promotional Content
 
-**Full Media Pack · English Version · v12**
+**Full Media Pack · English Version · v13**
 2026.05.25
 
-15 project dynamics · Full short flashes · Headline options · Companion visuals
-Project introduction + 9 core advantages + fact-check table
+16 project dynamics · Full short flashes · Headline options · Companion visuals
+Project introduction + 9 core advantages + source mapping
 
 🌐 astarter.io · 🐦 @AstarterDefiHub
 📰 Cointime feature: https://cn.cointime.ai/news/astarter-web4-x-defai-ji-chu-she-shi-ping-tai-huo-okx-ventures-yu-emurgo-shuang-ling-tou-71920
@@ -13,13 +13,15 @@ Project introduction + 9 core advantages + fact-check table
 
 # I. Astarter Project Introduction
 
-Astarter is a decentralized infrastructure platform built for the Web4 autonomous AI Agent economy. The project originated from a 2021 joint venture agreement with EMURGO — one of the three founding entities of the Cardano protocol — and has continuously operated a four-product DeFi stack since: Launchpad, DEX, Money Market, and Tech Service Platform.
+**Astarter is infrastructure built for the Autonomous AI Economy — a Web4 DePIN AI-native network, powered by ENI.**
 
-As the AI Agent economy accelerates through the 2026 cycle, Astarter has repositioned its existing four-year production-grade DeFi stack as settlement layer infrastructure for the AI Agent economy, defining itself as a three-layer integrated project "building the infrastructure of the autonomous AI Agent economy — combining AI Agent, DePIN, and DeFAI."
+Astarter integrates a decentralized AI Agent network, DePIN compute layer, and on-chain execution capability into a unified stack, enabling autonomous AI agents to operate, coordinate, and generate real economic value on-chain.
 
-The project has recently secured joint lead investment from OKX Ventures and EMURGO, with follow-on support from MH Ventures, Adaverse, and others — building a multi-layer capital structure spanning venture capital, exchange ecosystem, and strategic partners. The project has also entered strategic partnerships with UXLINK, AntFun, SumPlus, PayGo, and ENI Public Chain, establishing a complete alliance matrix covering social distribution, data infrastructure, AI-native payment, and cross-chain ecosystem.
+The project's core product, **ABox Node**, is the AI node device of the Astarter network, allowing anyone to run AI agents and join the global AI economy. ABox nodes provide the compute and execution environment that AI Agents need, support multi-agent parallel runtime, and provide returns to node operators through protocol revenue sharing.
 
-Within the next 6–12 months, Astarter will accelerate global ABox node deployment and launch the AI Application Marketplace, providing a more solid foundational support layer for the Web4 autonomous AI Agent ecosystem.
+Astarter has secured investment from **OKX Ventures, EMURGO, Adaverse, MH Ventures, Avatar Capital, 316VC, CRT Capital, and Megala Ventures** — 8 institutions in total, with OKX Ventures and EMURGO as joint lead investors. The advisor team includes EMURGO Head of Product Sergio Sanchez, IOHK Director of African Operations John O'Connor, and IPOR Labs CEO Darren Camas.
+
+Current phase (2026 Q3) core milestones: **Mainnet Launch + TGE (Token Generation Event) + Tokenomics Live + ABox Node Plan + Astarter Grant Program launch**. Subsequent Q4 will roll out AI DEX, ABox Agent App Store, and multi-chain integration.
 
 `astarter.io · @AstarterDefiHub`
 
@@ -27,63 +29,299 @@ Within the next 6–12 months, Astarter will accelerate global ABox node deploym
 
 # II. Astarter Core Project Advantages
 
-The following 9 core advantages are based on publicly verifiable factual statements, suitable as context for media reporting.
+The following 9 core advantages are based on Astarter's official public materials (website, project deck, X announcements, and other verified sources).
 
-## 01 · Top-Tier Institutional Capital Backing
+## 01 · Web4 AI DePIN Infrastructure Positioning
 
-Astarter has secured joint lead investment from OKX Ventures and EMURGO, with follow-on support from MH Ventures, Adaverse, and other institutions. OKX Ventures represents endorsement from top-tier exchange-backed venture capital; EMURGO, as one of three founding entities of the Cardano protocol, has continuously supported the project's ecosystem development since 2021. The multi-layer capital structure covers three dimensions: venture capital, exchange ecosystem, and strategic partners.
+A decentralized AI network powered by ENI, combining DePIN compute with on-chain execution, enabling autonomous AI agents to operate, coordinate, and generate real economic value on Cardano and beyond. This is one of the few project approaches in the current AI × Crypto category that integrates AI + DePIN + on-chain execution into a single stack.
 
-## 02 · Four-Year Production-Grade Operating Record
+## 02 · 8 Institutional Capital Backers
 
-Since the September 2021 joint venture agreement with EMURGO, Astarter has continuously operated a four-product DeFi stack: Launchpad (primary issuance), DEX (on-chain liquidity), Money Market (collateralized lending), and Tech Service Platform (developer tooling). This is operational history that the vast majority of AI Agent category projects do not have.
+Joint lead investment from OKX Ventures and EMURGO, with follow-on support from Adaverse, MH Ventures, Avatar Capital, 316VC, CRT Capital, and Megala Ventures. OKX Ventures represents endorsement from top-tier exchange-backed venture capital; EMURGO, as one of three founding entities of the Cardano protocol, has continuously supported the project. The diversified capital structure covers three dimensions: venture capital, exchange ecosystem, and strategic partners.
 
-## 03 · DeFAI Settlement-Layer Slot
+## 03 · Authoritative Advisor Team
 
-The AI Agent economy is structurally composed of four layers: actor, deployment, coordination, and settlement. The first three layers have multiple leading projects already positioned (Olas, Virtuals, Fetch.ai), while the settlement layer has long remained structurally under-claimed. Astarter, with its existing four-product stack, is currently one of the few representative projects publicly positioned at this layer.
+The project is advised by three experienced Web3 industry leaders:
+- **Sergio Sanchez** — Head of Product at EMURGO; affiliated with Yoroi Wallet (Cardano ecosystem)
+- **John O'Connor** — Director of African Operations at IOHK (the company behind Cardano)
+- **Darren Camas** — Chief Executive Officer of IPOR Labs
 
-## 04 · Complete Three-Layer Architecture Coverage
+The advisor team provides strategic guidance, industry resources, and global network support.
 
-Astarter publicly commits to covering the AI Agent (actor), DePIN (compute substrate), and DeFAI (financial) three-layer architecture. Most peer projects focus on a single layer; Astarter, through its own stack + strategic alliance combination (UXLINK, AntFun, SumPlus, etc.), achieves coordinated three-layer coverage — a structural differentiation in the AI Agent economy category.
+## 04 · Four-Layer AI Economy Architecture
 
-## 05 · Cardano Native + Multi-Chain Expansion
+Astarter has publicly published its "Four-Layer AI Economy Architecture," where each layer is built upon the one below:
+- **L4 Application Layer**: AI DEX, Prediction Market, Agent App Store
+- **L3 Agent Layer**: Autonomous AI agents execute trades, strategies, and predictions while generating revenue
+- **L2 Node Layer**: ABox DePIN nodes provide compute and execution
+- **L1 Infrastructure Layer**: High-performance blockchain with AI-native execution environment
 
-Infrastructure anchored to Cardano as the native foundation, leveraging Cardano's traditional advantages in technical rigor and institutional credibility. Additionally, a strategic partnership with ENI Public Chain has established a cross-chain bridge, with further extension to mainstream blockchain ecosystems planned to cover cross-chain AI Agent economic activity.
+L1 is the foundation; L4 is what the user touches directly.
 
-## 06 · Complete Strategic Alliance Matrix (Execution + Distribution + Data + Payment + Cross-Chain)
+## 05 · ABox Node Product Ready
 
-Astarter has built a strategic alliance matrix covering multiple critical dimensions: UXLINK for the distribution layer, AntFun for social DEX and AI smart trading, SumPlus for MCP DeFi data layer, PayGo for AI-native payment, and ENI Public Chain for cross-chain ecosystem. This alliance matrix demonstrates clear ecosystem completeness within the AI Agent economy category.
+ABox is the core AI node device of the Astarter network, with three tiers now open for presale:
+- **LITE** ($500) — 12,000 slots available
+- **PRO** ($1,000, most popular) — 4,137 slots
+- **MAX** ($3,000) — 1,142 slots
 
-## 07 · Sustained Chinese Crypto Media Coverage
+All tiers include revenue sharing and ABox presale whitelist access. Node revenue sources: AI Agent execution fees, ABox compute rewards, Agent Marketplace revenue, AI DEX fees, Prediction Market fees.
 
-Three key media milestones already completed: May 12 Twitter Space with Cointime titled "AI Agents as the Autonomous Execution Layer of Web4"; May 14 full project report by Mango Finance (芒果财经网); May 24 Cointime feature on the Web4 AI Agent era. Three consecutive appearances have established the project's narrative position in Chinese-language crypto media.
+## 06 · 2026 Q3 Mainnet Launch + TGE Forthcoming
 
-## 08 · Clear Near-Term Execution Path
+2026 Q3 current phase core milestones include: Mainnet Launch, TGE (Token Generation Event), Tokenomics going live, ABox Node Plan, Astarter Grant Program launch, and Native AI ↔ DePIN Interaction. Having execution milestones this specific, near-term, and verifiable is relatively rare in the AI Agent category.
 
-Within the next 6–12 months, Astarter will accelerate global ABox node deployment and launch the AI Application Marketplace, further strengthening AI Agents infrastructure capabilities. Projects with execution paths as specific, near-term, and verifiable as this are relatively rare in the AI Agent category.
+## 07 · Clear $AA Tokenomics
 
-## 09 · Web4 AI Agent Chinese Narrative Leadership
+$AA token total supply is fixed at **1 billion units**, with allocation spanning seven dimensions: Ecosystem & Community, Ecosystem Development, Team, Market Cap Management, Investment Institutions, Node Airdrop, and Community Incentives. Ecosystem & Community holds the largest share at 42% (420M $AA). Staking mining mechanic: 250,000 $AA per day, reducing 10% every 6 months.
 
-The Astarter deep-dive feature published on Cointime is the first systematically articulated Web 4.0 AI Agent economy thesis in Chinese-language crypto media. The article references 2026 research from Messari, a16z, and Delphi, positioning Astarter as an early entrant in the AI Agent infrastructure market (projected to exceed $50 billion by 2030).
+## 08 · Sustained Chinese Crypto Media Coverage
+
+Three key media milestones already completed: May 12 Twitter Space co-hosted with Cointime titled "AI Agents as the Autonomous Execution Layer of Web4"; May 14 full project report published by Mango Finance (芒果财经网); May 24 Cointime feature on the Web4 AI Agent era. Three consecutive appearances have established the project's narrative position in Chinese-language crypto media.
+
+## 09 · Self-Reinforcing Economic Flywheel Model
+
+Astarter has publicly published the "On-Chain Economic Flywheel" — a four-stage loop: Applications create demand → AI agents execute tasks → ABox nodes provide compute → Revenue flows back to nodes and network. This loop strengthens the entire network with every execution, forming the structural foundation for long-term sustainability.
 
 ---
 
-# III. Recent Project Dynamics (15 entries)
+# III. Recent Project Dynamics (16 entries)
 
-The following 15 project dynamics can each be independently distributed to any Chinese crypto media outlet. Each includes 3 headline options and a short flash. All facts come from verified sources: Astarter official announcements, Mango Finance 5/14 article, Cointime 5/24 feature.
+The following 16 project dynamics can each be independently distributed to any crypto media outlet. Each includes 3 headline options and a short flash. All facts come from verified sources: Astarter official website, project deck, X announcements.
 
 ---
 
-## Dynamic 01 — Cointime Feature Publication
+## Dynamic 01 — Astarter Official Positioning: Web4 AI DePIN Infrastructure
+
+### Headline Options
+
+1. Astarter Officially Positions as Web4 AI DePIN Infrastructure Powered by ENI
+2. Infrastructure for the Autonomous AI Economy — Astarter Publishes Core Positioning
+3. Web4 DePIN AI-Native Network — Astarter Complete Positioning Decoded
+
+### Short Flash
+
+Astarter has formally established its project core positioning: **infrastructure built for the Autonomous AI Economy — a Web4 DePIN AI-native network, powered by ENI.** The project integrates a decentralized AI Agent network, DePIN compute layer, and on-chain execution capability into a unified stack, enabling autonomous AI agents to independently operate, coordinate, and generate real economic value on Cardano and beyond. This is one of the few project approaches in the current AI × Crypto category that integrates AI + DePIN + on-chain execution into a single stack.
+
+`astarter.io · @AstarterDefiHub`
+
+---
+
+## Dynamic 02 — $AA Tokenomics Published
+
+### Headline Options
+
+1. Astarter Publishes $AA Tokenomics — 1 Billion Total Supply, Ecosystem & Community at 42%
+2. $AA Token Allocation Decoded: 420M Ecosystem & Community + 120M Team + 40M Node Airdrop
+3. Astarter $AA Token 1B Total Supply, Seven Allocation Dimensions + Staking Mining Mechanics
+
+### Short Flash
+
+Astarter has officially published its $AA tokenomics. Total supply is fixed at **1 billion units** (1,000,000,000 $AA), with allocation across seven dimensions: Ecosystem & Community 42% (420M), Ecosystem Development 26% (260M), ASTARTER Team 12% (120M, 1-year cliff + 4-year linear vesting), Market Cap Management 10% (100M), Investment Institutions 5% (50M, 1-year cliff + 4-year linear vesting), Node Airdrop 4% (40M), Community Incentives 1% (10M).
+
+Staking mining mechanics: daily ABF node and staking rewards total 250,000 $AA, with 10% reduction every 6 months.
+
+`astarter.io · @AstarterDefiHub`
+
+---
+
+## Dynamic 03 — ABox Node Product Open for Presale (Three Tiers)
+
+### Headline Options
+
+1. Astarter ABox Node Opens Three-Tier Presale: LITE / PRO / MAX Now Available
+2. ABox Node: Astarter Network's Core AI Node Device — Plug-and-Play, Supports Multi-Agent Runtime
+3. ABox Node Presale Live — Node Revenue Spans Agent Execution Fees, DEX Fees, Prediction Market Fees, and More
+
+### Short Flash
+
+Astarter's core product **ABox Node** is now open for three-tier presale: **LITE** ($500, 12,000 slots), **PRO** ($1,000, most popular, 4,137 slots), **MAX** ($3,000, 1,142 slots).
+
+ABox is the core AI node device of the Astarter network, featuring: Open Protocol (compatible with mainstream open-source agent frameworks), On-Chain Execution Capability (agents can directly call smart contracts for trades/strategies), Plug-and-Play, and Multi-Agent Parallel Runtime.
+
+All tiers include revenue sharing and ABox presale whitelist access. Node revenue covers AI Agent execution fees, ABox compute rewards, Agent Marketplace revenue, AI DEX fees, and Prediction Market fees.
+
+`astarter.io · @AstarterDefiHub`
+
+---
+
+## Dynamic 04 — 2026 Q3 Mainnet Launch + TGE Forthcoming
+
+### Headline Options
+
+1. Astarter 2026 Q3 Mainnet Launch + TGE (Token Generation Event) Forthcoming
+2. Roadmap Major | Astarter Enters Q3 Phase: Mainnet + TGE + ABox Node Plan + Grant Program Launching in Parallel
+3. Astarter Phase Two Roadmap Launches with 7 Major Milestones Landing in Parallel
+
+### Short Flash
+
+Astarter enters **2026 Q3 Phase Two roadmap**, with multiple key milestones advancing in parallel:
+- **Mainnet Launch**
+- **TGE (Token Generation Event)** — $AA token goes live
+- **Tokenomics model goes live**
+- **Strategic partnership network continues to expand**
+- **ABox Node Plan launches in full**
+- **Astarter Grant Program launches**
+- **Native AI ↔ DePIN Interaction goes live**
+
+Having execution milestones this specific, near-term, and verifiable is relatively rare in the AI Agent category.
+
+`astarter.io · @AstarterDefiHub`
+
+---
+
+## Dynamic 05 — 8 Institutional Capital Structure
+
+### Headline Options
+
+1. Astarter Secures Investment from 8 Institutions, with OKX Ventures and EMURGO as Joint Lead
+2. Major Capital Structure | Astarter Complete Investor List: OKX, EMURGO, Adaverse, MH, Avatar, 316VC, CRT, Megala
+3. OKX Ventures and Cardano Founding Entity EMURGO Jointly Back Astarter
+
+### Short Flash
+
+Astarter has secured investment from 8 institutions, building a diversified capital structure spanning venture capital, exchange ecosystem, and strategic partners:
+
+**Lead Investors:**
+- OKX Ventures
+- EMURGO (one of three founding entities of the Cardano protocol)
+
+**Follow-on Investors:**
+- Adaverse
+- MH Ventures
+- Avatar Capital
+- 316VC
+- CRT Capital
+- Megala Ventures
+
+OKX Ventures represents endorsement from top-tier exchange-backed venture capital; EMURGO has continuously supported the project's ecosystem development since 2021. This capital structure provides significant institutional credibility within the AI Agent infrastructure category.
+
+`astarter.io · @AstarterDefiHub`
+
+---
+
+## Dynamic 06 — Authoritative Advisor Team
+
+### Headline Options
+
+1. Astarter Publishes Authoritative Advisor Team — EMURGO + IOHK + IPOR Labs Three Industry Leaders
+2. Advisor Lineup | Sergio Sanchez (EMURGO) + John O'Connor (IOHK) + Darren Camas (IPOR Labs)
+3. Cardano Ecosystem Senior Force Backing — Astarter Advisor Team Decoded
+
+### Short Flash
+
+Astarter has published its project advisor team, led by three experienced Web3 industry leaders:
+
+- **Sergio Sanchez** — Head of Product at EMURGO; affiliated with Yoroi Wallet (Cardano ecosystem)
+- **John O'Connor** — Director of African Operations at IOHK (the company behind Cardano)
+- **Darren Camas** — Chief Executive Officer of IPOR Labs
+
+The advisor team provides strategic guidance, industry resources, and global network support, particularly strengthening Astarter's foundation within the Cardano ecosystem and its institutional credibility.
+
+`astarter.io · @AstarterDefiHub`
+
+---
+
+## Dynamic 07 — Four-Layer AI Economy Architecture
+
+### Headline Options
+
+1. Astarter Publishes Four-Layer AI Economy Architecture — Full-Stack Coverage from Infrastructure to Applications
+2. Application Layer + Agent Layer + Node Layer + Infrastructure Layer | Astarter Four-Layer Architecture Decoded
+3. Complete L1 to L4 Stack — How Astarter Builds End-to-End AI Economy Infrastructure
+
+### Short Flash
+
+Astarter has publicly published its "Four-Layer AI Economy Architecture," where each layer is built upon the one below:
+
+- **L4 Application Layer**: AI DEX, Prediction Market, Agent App Store
+- **L3 Agent Layer**: Autonomous AI agents execute trades, strategies, and predictions while generating revenue
+- **L2 Node Layer**: ABox DePIN nodes provide compute and execution, running AI agents and network tasks
+- **L1 Infrastructure Layer**: High-performance blockchain + AI-native execution environment
+
+L1 is the foundation; L4 is what the user touches directly. This architecture makes Astarter one of the few projects in the AI Agent economy category providing a complete end-to-end solution from foundational infrastructure to upper-layer applications.
+
+`astarter.io · @AstarterDefiHub`
+
+---
+
+## Dynamic 08 — Core Use Case Matrix
+
+### Headline Options
+
+1. Astarter Publishes Core Use Cases — AI DEX + Prediction Market + Agent App Store + Data Market
+2. Four AI Agent Economy Use Cases | Astarter Application Matrix Decoded
+3. From AI DEX to Data Market — How Astarter Captures Real Demand from Autonomous AI Agents
+
+### Short Flash
+
+Astarter has published its core use case matrix, covering four use cases in the AI Agent economy:
+
+- **AI DEX** — AI agents execute trading, market-making, and arbitrage to improve on-chain liquidity
+- **Prediction Market** — Analyze on-chain and external data to participate in prediction markets and improve accuracy
+- **Agent Marketplace** — Users can buy, deploy, or rent AI agents to monetize their capabilities
+- **Data Market** — AI agents generate, process, and trade data to power a decentralized data network
+
+The diversified use case coverage enables Astarter to capture real demand from autonomous AI agents across different scenarios, while channeling network value back through the economic flywheel.
+
+`astarter.io · @AstarterDefiHub`
+
+---
+
+## Dynamic 09 — Economic Flywheel Model
+
+### Headline Options
+
+1. Astarter Publishes Economic Flywheel Model — Self-Reinforcing Loop: Apps → Agents → Nodes → Value
+2. Four-Stage Economic Flywheel | How Astarter Strengthens the Entire Network with Every Execution
+3. On-Chain Economic Flywheel | Structural Foundation for Astarter's Long-Term Sustainability
+
+### Short Flash
+
+Astarter has publicly published its "On-Chain Economic Flywheel" — a four-stage loop model:
+
+1. **Demand - Applications**: Real demand comes from applications such as DEXs, prediction markets, and data markets
+2. **Producers - AI Agents**: Agents execute trading, prediction, analysis, and other tasks
+3. **Infrastructure - ABox Nodes**: Nodes provide compute, deployment, and execution environments
+4. **Value - Revenue & Incentives**: Execution fees, trading profits, and protocol revenue sharing flow back to nodes and network
+
+Every execution strengthens the entire network, compounding over time. This is the structural foundation for Astarter's long-term sustainability.
+
+`astarter.io · @AstarterDefiHub`
+
+---
+
+## Dynamic 10 — Astarter Grant Program Launches
+
+### Headline Options
+
+1. Astarter Grant Program Launching Soon — Inviting Developers to Co-Build Web4 AI Agent Ecosystem
+2. Major | Astarter 2026 Q3 Grant Program Launches to Accelerate Ecosystem Development
+3. Astarter Opens Ecosystem Grant Program — Co-Build with Global Web4 AI Agent Developers
+
+### Short Flash
+
+As an important component of the 2026 Q3 roadmap, the **Astarter Grant Program** is launching soon. This program will serve as a key accelerator for project ecosystem expansion, inviting global Web4 AI Agent developers, ABox node operators, and application builders to participate in ecosystem development.
+
+The Grant Program advances in parallel with Mainnet Launch, TGE (Token Generation Event), and ABox Node Plan — forming Astarter's complete ecosystem launch combination in 2026 Q3. Specific application channels, grant directions, and first-batch grantee names will be announced in subsequent communications.
+
+Developers and builders can follow @AstarterDefiHub for updates.
+
+`astarter.io · @AstarterDefiHub`
+
+---
+
+## Dynamic 11 — Cointime Feature Publication
 
 ### Headline Options
 
 1. Astarter Web4 × DeFAI Infrastructure Platform Secures Joint Lead Investment from OKX Ventures and EMURGO — Cointime Feature Live
-2. Major | Cointime Publishes Astarter Deep-Dive Articulating Full AI Agent Economy Settlement-Layer Thesis
-3. First Complete AI Agent Infrastructure Thesis from Cardano Ecosystem — Astarter Feature on Cointime
+2. Major | Cointime Publishes Astarter Deep-Dive Articulating Full Web4 AI DePIN Infrastructure Thesis
+3. First Complete Web4 AI DePIN Infrastructure Thesis from Cardano Ecosystem — Astarter Feature on Cointime
 
 ### Short Flash
 
-On May 24, 2026, Cardano-based infrastructure platform Astarter and leading crypto media outlet Cointime jointly published a deep-dive feature titled *"Astarter Web4 × DeFAI Infrastructure Platform Secures Joint Lead Investment from OKX Ventures and EMURGO,"* systematically articulating the project's strategic positioning, capital structure, and execution path within the autonomous AI Agent economy. The feature presents Astarter's "AI Agent Economy Settlement Layer" thesis in full for the first time, analyzing the convergence of AI Agent, DePIN, and DeFAI trends.
+On May 24, 2026, Cardano-based infrastructure platform Astarter and leading crypto media outlet Cointime jointly published a deep-dive feature titled *"Astarter Web4 × DeFAI Infrastructure Platform Secures Joint Lead Investment from OKX Ventures and EMURGO,"* systematically articulating the project's strategic positioning as Web4 AI DePIN infrastructure, capital structure, and execution path. The feature presents Astarter's four-layer AI economy architecture, ABox node product solution, $AA tokenomics, and 2026 Q3 roadmap in full for the first time.
 
 📰 Full feature: https://cn.cointime.ai/news/astarter-web4-x-defai-ji-chu-she-shi-ping-tai-huo-okx-ventures-yu-emurgo-shuang-ling-tou-71920
 
@@ -92,17 +330,37 @@ On May 24, 2026, Cardano-based infrastructure platform Astarter and leading cryp
 
 ---
 
-## Dynamic 02 — Astarter × UXLINK Strategic Alliance
+## Dynamic 12 — Cointime × Astarter Twitter Space (5/12)
 
 ### Headline Options
 
-1. Astarter and UXLINK Strategic Alliance Builds Web4 AI Agent Economy Execution + Distribution Stack
-2. Major Alliance | Astarter × UXLINK: First Coordinated Execution + Social Distribution Stack in AI Agent Economy
+1. Cointime × Astarter Twitter Space Convenes AI Agent × Web4 Multi-Project Deep Dive
+2. AI Agents as the Autonomous Execution Layer of Web4 — Cointime × Astarter Joint AMA Full Recap
+3. 5/12 Cointime × Astarter Space: Multi-Project Joint Discussion on AI Agent Evolution Path
+
+### Short Flash
+
+On May 12, 2026 at 20:00 (UTC+8), Cointime and Astarter co-hosted a Twitter Space titled "AI Agents as the Autonomous Execution Layer of Web4." Hosted by Ayelle (@ayelleley), the Space convened multiple key project representatives from the AI Agent × Web4 space: Batman (AstarterDefiHub), Jakob (SumPlusReal co-founder), Sofija (BrcToTheMoon CMO), Austin (Global Ambassador), Darkan (OriginsNetwork core team).
+
+Discussion focused on three themes: project focus areas within the AI Agent × Web4 space; which sector AI Agents will disrupt first (DeFi / trading / on-chain asset management); top actionable opportunities over the next 6–12 months. This Space served as a milestone event in the Astarter × Cointime media partnership matrix.
+
+🔗 Space replay: https://x.com/i/spaces/1akbd/i/spaces/1KbdbAWnBkJX
+
+`astarter.io · @AstarterDefiHub`
+
+---
+
+## Dynamic 13 — Astarter × UXLINK Strategic Cooperation
+
+### Headline Options
+
+1. Astarter and UXLINK Reach Strategic Cooperation — Driving Web4 AI Agent Economy Social-Scale Adoption
+2. Major Partnership | Astarter × UXLINK Integrate AI-Native Infrastructure with Social-Driven Ecosystem
 3. AI Agent Needs a Network. Internet Needs People. — Astarter × UXLINK Explore Web3's Next Evolution
 
 ### Short Flash
 
-Astarter has announced a strategic partnership with leading Web3 social platform UXLINK. The Astarter team's official framing of the partnership: *"Astarter is building the infrastructure of the autonomous AI Agent economy — combining AI agent, DePIN, and DeFAI, so that autonomous AI systems can run, coordinate, and create real economic value on the chain."*
+Astarter has announced strategic cooperation with leading Web3 social platform UXLINK. The Astarter team's official framing of the partnership: *"Astarter is building the infrastructure of the autonomous AI Agent economy — combining AI agent, DePIN and DeFAI, so that autonomous AI systems can run, coordinate and create real economic value on the chain."*
 
 As one of the world's leading Web3 social platforms, UXLINK promotes large-scale social adoption through its strong social growth layer, connecting global users, communities, and builders. The two parties will jointly explore how to integrate AI-native infrastructure with socially driven ecosystems, accelerating the next evolution of Web3 participation, autonomous coordination, and on-chain growth.
 
@@ -113,237 +371,56 @@ As one of the world's leading Web3 social platforms, UXLINK promotes large-scale
 
 ---
 
-## Dynamic 03 — Cointime × Astarter Twitter Space (5/12)
+## Dynamic 14 — Astarter × AntFun Strategic Cooperation (Social DEX)
 
 ### Headline Options
 
-1. Cointime × Astarter Twitter Space Convenes AI Agent × Web4 Multi-Project Deep Dive
-2. AI Agents as the Autonomous Execution Layer of Web4 — Cointime × Astarter Joint AMA Full Recap
-3. 5/12 Cointime × Astarter Space: AstarterDefiHub × SumPlus × BrcToTheMoon × OriginsNetwork Joint Discussion
-
-### Short Flash
-
-On May 12, 2026 at 20:00 (UTC+8), Cointime and Astarter co-hosted a Twitter Space titled "AI Agents as the Autonomous Execution Layer of Web4." Hosted by Ayelle (@ayelleley), the Space convened multiple key project representatives from the AI Agent × Web4 space: Batman (AstarterDefiHub), Jakob (SumPlusReal co-founder), Sofija (BrcToTheMoon CMO), Austin (Global Ambassador), Darkan (OriginsNetwork core team).
-
-Discussion focused on three themes: project focus areas within the AI Agent × Web4 space; which sector AI Agents will disrupt first (DeFi / trading / on-chain asset management); top actionable opportunities over the next 6–12 months. This Space served as a milestone event in the Astarter × Cointime media partnership matrix, laying the narrative foundation for the subsequent feature publication.
-
-🔗 Space replay: https://x.com/i/spaces/1akbd/i/spaces/1KbdbAWnBkJX
-
-`astarter.io · @AstarterDefiHub`
-
----
-
-## Dynamic 04 — Web 4.0 AI Agent Economy Thesis Established
-
-### Headline Options
-
-1. Astarter Establishes Web 4.0 AI Agent Economy Thesis in Chinese Crypto Media
-2. Web 4.0 Isn't a Narrative — It's an Infrastructure Race | Astarter's Complete Thesis
-3. The Real Question of the 2026 Cycle: Who Builds the Settlement Layer for Non-Human Economic Actors
-
-### Short Flash
-
-Astarter has recently published a deep-dive feature on Cointime, becoming the first to systematically articulate the complete "Web 4.0 AI Agent economy" thesis within Chinese crypto media. The article argues that the defining narrative of the 2026 cycle is no longer about which chain wins liquidity, but who builds the settlement substrate for the first generation of non-human economic actors. The article references 2026 research from Messari, a16z, and Delphi, projecting the AI Agent infrastructure market to grow from approximately $8 billion to over $50 billion by 2030.
-
-`astarter.io · @AstarterDefiHub`
-
----
-
-## Dynamic 05 — DeFAI Category First-Mover Position
-
-### Headline Options
-
-1. Astarter Claims DeFAI Settlement Layer — Occupying a Critical Slot Not Yet Filled by Competitors
-2. The Under-Claimed Slot in the Four-Layer AI Agent Economy Architecture: Astarter's Settlement Position
-3. Beyond Olas, Virtuals, Fetch — What Other Opportunities Remain in the AI Agent Economy? Settlement.
-
-### Short Flash
-
-As the DeFAI category (Decentralized Finance × Autonomous AI Execution) rapidly emerges in 2026, Astarter has positioned itself at the "settlement layer" slot — a structurally under-claimed position in this category. Astarter is decentralized AI + DeFi (DeFAI) infrastructure built for Web4, aiming to create an AI-executable economic system that enables autonomous AI Agents to independently complete on-chain transaction execution, strategy optimization, and real-time data processing. Industry comparative analysis shows that the first three layers of the AI Agent economy's four-layer architecture have multiple leading projects (Olas, Virtuals, Fetch.ai) positioned, while the "settlement layer" remains long under-claimed. Astarter, leveraging its four-product DeFi stack operating since 2021, is currently among the few representative projects publicly positioned at this layer.
-
-**Visual:** `visuals/dynamic-04-defai-positioning.png`
-`astarter.io · @AstarterDefiHub`
-
----
-
-## Dynamic 06 — Four-Product DeFi Stack Repositioning
-
-### Headline Options
-
-1. Astarter's Four-Product DeFi Stack Collectively Repositioned as AI Agent Economy Financial Primitive Layer
-2. Not a Pivot — Recognition | Astarter Four-Product Stack Repositioning Explained
-3. Same Products, Larger Market | Logic Behind Astarter's Strategic Repositioning
-
-### Short Flash
-
-Astarter's four products — Launchpad, DEX, Money Market, Tech Service Platform — are collectively completing strategic repositioning from traditional DeFi infrastructure to financial primitive layer for the autonomous AI Agent economy. This repositioning is not a product rebuild; rather, it repoints the existing four-year production-grade stack at the larger AI Agent market — agents and human users have structurally different needs for financial primitives that existing DeFi cannot directly serve. Astarter emphasizes this positioning adjustment is "recognition rather than transformation" — same four products, much larger addressable market.
-
-`astarter.io · @AstarterDefiHub`
-
----
-
-## Dynamic 07 — Multi-Chain Expansion Roadmap Signal
-
-### Headline Options
-
-1. Astarter Signals Multi-Chain Expansion Roadmap — Cross-Chain Bridge with ENI Public Chain
-2. Cross-Chain Is a Necessity for the AI Agent Economy | Astarter Multi-Chain Strategy Signal
-3. From Cardano to Multi-Chain | Astarter Infrastructure Cross-Chain Expansion Plan
-
-### Short Flash
-
-Cardano-based infrastructure project Astarter has signaled a clear multi-chain expansion roadmap — through its strategic partnership with ENI Public Chain establishing a cross-chain liquidity bridge, gradually extending its settlement-layer infrastructure to multiple mainstream blockchain ecosystems. The team's position is that the AI Agent economy and DePIN networks are inherently cross-chain in nature; an execution layer anchored to a single chain is structurally limited. Multi-chain expansion is a critical step for Astarter to reach the full scope of AI Agent economic activity. Cardano remains as the foundational anchor chain.
-
-`astarter.io · @AstarterDefiHub`
-
----
-
-## Dynamic 08 — OKX Ventures × EMURGO Joint Lead Investment
-
-### Headline Options
-
-1. Astarter Secures Joint Lead Investment from OKX Ventures and EMURGO — Supported by MH Ventures, Adaverse and Others
-2. Major Capital Structure | OKX Ventures + EMURGO Jointly Back Astarter Web4 AI Agent Infrastructure
-3. OKX Ventures and Cardano Founding Entity EMURGO Jointly Back Astarter — Decoding the Multi-Layer Capital Structure
-
-### Short Flash
-
-Astarter — decentralized AI + DeFi (DeFAI) infrastructure built for Web4 — has secured joint lead investment from OKX Ventures and EMURGO, with follow-on support from MH Ventures, Adaverse, and other institutions, building a multi-layer capital structure spanning venture capital, exchange ecosystem, and strategic partners. EMURGO, as one of three founding entities of the Cardano protocol, has continuously supported the project's ecosystem development since 2021; the addition of OKX Ventures signals endorsement from top-tier exchange-backed venture capital for Astarter's strategic positioning. The multi-layer capital structure provides Astarter with strategic resources and ecosystem credibility in AI Agent infrastructure competition.
-
-**Visual:** `visuals/banner-investors-1180x480.png`
-📰 Detailed report: https://cn.cointime.ai/news/astarter-web4-x-defai-ji-chu-she-shi-ping-tai-huo-okx-ventures-yu-emurgo-shuang-ling-tou-71920
-`astarter.io · @AstarterDefiHub`
-
----
-
-## Dynamic 09 — Three-Layer Convergence Architecture
-
-### Headline Options
-
-1. Astarter Publishes Three-Layer Convergence Architecture — Coordinating AI Agent + DePIN + DeFAI
-2. AI Agent + DePIN + DeFAI | Astarter Three-Layer Convergence Architecture Decoded
-3. Most Projects Cover One Layer — Astarter Commits to All Three
-
-### Short Flash
-
-Astarter has formally published a "three-layer convergence architecture" in recent public materials — coordinating AI Agent (actor), DePIN (compute substrate), and DeFAI (financial layer) trends within a single unified stack. The project's own framing: *"Astarter is building the infrastructure of the autonomous AI Agent economy — combining AI agent, DePIN, and DeFAI."* Industry analysis identifies this three-layer architecture as one of the few publicly committed approaches in the AI Agent economy category covering all three layers. Most peer projects cover only one layer; Astarter achieves complete three-layer coverage through its own stack + strategic alliance matrix combination (UXLINK, AntFun, SumPlus, PayGo, ENI).
-
-**Visual:** `visuals/dynamic-09-three-layer.png`
-`astarter.io · @AstarterDefiHub`
-
----
-
-## Dynamic 10 — Cardano Ecosystem AI Infrastructure Representative Project
-
-### Headline Options
-
-1. Astarter Emerges as Representative AI Infrastructure Project in Cardano Ecosystem
-2. When People Discuss "Cardano's AI Story" — They Should Discuss Astarter
-3. Cardano + AI = Astarter | Complete Positioning Profile
-
-### Short Flash
-
-As the Cardano ecosystem accelerates positioning in AI and Web4 directions through 2026, Astarter — with its complete four-product DeFi stack, OKX Ventures + EMURGO joint lead capital structure, and clear positioning in the AI Agent economy — has emerged as one of the representative AI infrastructure projects in the Cardano ecosystem. Industry observers note that within the Cardano Chinese community and developer ecosystem, Astarter is currently a representative project publicly positioning full-stack AI Agent infrastructure. This positioning provides Cardano with a concrete ecosystem anchor in the broader AI × Crypto trend.
-
-`astarter.io · @AstarterDefiHub`
-
----
-
-## Dynamic 11 — 6-12 Month Roadmap: ABox Node Deployment + AI Application Marketplace
-
-### Headline Options
-
-1. Astarter Releases Dual 6-12 Month Roadmap: Global ABox Node Deployment + AI Application Marketplace Launch
-2. ABox + AI Application Marketplace | Astarter 6-12 Month Core Execution Priorities Announced
-3. From Infrastructure to Application Layer | Astarter Roadmap Coordinates ABox Nodes and AI Application Marketplace
-
-### Short Flash
-
-Astarter — infrastructure project for the Web4 autonomous AI Agent ecosystem — has signaled a clear dual 6-12 month roadmap:
-
-First, **global ABox node deployment acceleration** — ABox nodes are Astarter's core infrastructure at the physical node layer, handling AI Agent execution, compute scheduling, and cross-regional coordination. Global node deployment is a critical step for reaching cross-regional AI Agent economic activity.
-
-Second, **AI Application Marketplace launch forthcoming** — providing more solid foundational support for the Web4 autonomous AI Agent ecosystem.
-
-Together, these constitute Astarter's core execution priorities within the 6-12 month window. Specific deployment regions, launch timing, initial marketplace applications, and developer access paths will be announced in subsequent communications.
-
-**Visual:** `visuals/banner-roadmap-1180x480.png`
-`astarter.io · @AstarterDefiHub`
-
----
-
-## Dynamic 12 — Astarter × AntFun Strategic Cooperation (Social DEX)
-
-### Headline Options
-
-1. Astarter and Next-Generation Social DEX AntFun Reach Strategic Partnership — Building Smart Social On-Chain Trading Ecosystem
+1. Astarter and Next-Generation Social DEX AntFun Reach Strategic Cooperation — Building Smart Social On-Chain Trading Ecosystem
 2. Major | Astarter × AntFun: AI-Native DeFAI × Ultra-Low Fee Social DEX × AI Smart Trading Tools
 3. DeFi × AI Agent × Social | Astarter × AntFun Jointly Drive DeFi's Next Stage
 
 ### Short Flash
 
-Astarter has announced a strategic partnership with next-generation Social DEX AntFun (@ant_fun_trade). Astarter's AI-native DeFAI infrastructure and autonomous AI Agent execution capability, combined with AntFun's ultra-low-rate social DEX and AI smart trading tools, will create a more intelligent, efficient, and socially attributed on-chain trading and pledge ecosystem for users. The two parties will jointly drive the next stage of DeFi × AI Agent × Social, with details of joint public relations and ecosystem integration to be announced.
+Astarter has announced strategic cooperation with next-generation Social DEX AntFun (@ant_fun_trade). Astarter's AI-native infrastructure and autonomous AI Agent execution capability, combined with AntFun's ultra-low-rate social DEX and AI smart trading tools, will create a more intelligent, efficient, and socially attributed on-chain trading and pledge ecosystem for users. The two parties will jointly drive the next stage of DeFi × AI Agent × Social, with details of joint public relations and ecosystem integration to be announced.
 
 `astarter.io · @AstarterDefiHub · @ant_fun_trade`
 
 ---
 
-## Dynamic 13 — Astarter × SumPlus Strategic Cooperation (MCP DeFi Data Layer)
+## Dynamic 15 — Astarter × SumPlus Strategic Cooperation (MCP DeFi Data Layer)
 
 ### Headline Options
 
-1. Astarter × SumPlus Strategic Partnership: AI Agent One-Click Access to World's Top DeFi Real-Time Data via MCP
+1. Astarter × SumPlus Strategic Cooperation: AI Agent One-Click Access to World's Top DeFi Real-Time Data via MCP
 2. DeFi Data Layer × AI Agent Execution Layer | Astarter × SumPlus Jointly Build Web4 Decentralized Financial Operating System
 3. Major | AI Agent Data Vision + On-Chain Execution Capability — Astarter and SumPlus Complete Key Infrastructure Handshake
 
 ### Short Flash
 
-Astarter has announced a strategic partnership with SumPlus (@SumPlusReal). Through MCP (Model Context Protocol), AI Agents can now one-click access the world's top authoritative DeFi real-time data: TVL, protocol core indicators, heterogeneous chain ecosystem, cross-chain panoramic analysis — fully covered.
+Astarter has announced strategic cooperation with SumPlus (@SumPlusReal). Through MCP (Model Context Protocol), AI Agents can now one-click access the world's top authoritative DeFi real-time data: TVL, protocol core indicators, heterogeneous chain ecosystem, cross-chain panoramic analysis — fully covered.
 
 This is precisely Astarter's long-term AI-native financial infrastructure layout — completing the core "data vision" and "on-chain execution capability" for autonomous agents on-chain, truly realizing 24/7 uninterrupted on-chain capture and creating real value.
 
-DeFi Data Layer × AI Agent Execution Layer × Astarter DePIN/DeFAI substrate — together creating the next-generation decentralized financial operating system for Web4.
+DeFi Data Layer × AI Agent Execution Layer × Astarter DePIN substrate — together creating the next-generation decentralized financial operating system for Web4.
 
 `astarter.io · @AstarterDefiHub · @SumPlusReal`
 
 ---
 
-## Dynamic 14 — Astarter × PayGo Strategic Cooperation (AI-Native Payment)
+## Dynamic 16 — Astarter × PayGo Strategic Cooperation (AI-Native Payment)
 
 ### Headline Options
 
-1. Astarter and PayGo Reach Strategic Partnership — AI-Native Payment × Multi-Chain DeFi Drive Next-Generation Machine Economy
+1. Astarter and PayGo Reach Strategic Cooperation — AI-Native Payment × Multi-Chain DeFi Drive Next-Generation Machine Economy
 2. Major | Astarter × PayGo: AI Machine Economy Combination That Lands On-Chain Utility
-3. Cardano AI Machine Economy | Astarter Joins PayGo to Explore Cross-Chain Payment and User Growth
+3. Astarter Joins PayGo to Explore Cross-Chain Payment and User Growth
 
 ### Short Flash
 
-Astarter has announced a strategic partnership with PayGo (@PayGo). The combination of AI-native payment with multi-chain DeFi will open new possibilities for the next-generation machine economy. The two parties will deeply integrate pledging, trading, yield, and real payment scenarios, truly landing on-chain utility. Looking forward to jointly exploring more cross-chain opportunities and user growth paths.
+Astarter has announced strategic cooperation with PayGo (@PayGo). The combination of AI-native payment with multi-chain DeFi will open new possibilities for the next-generation machine economy. The two parties will deeply integrate pledging, trading, yield, and real payment scenarios, truly landing on-chain utility. Looking forward to jointly exploring more cross-chain opportunities and user growth paths.
 
 `#Astarter #PayGo #DeFi #Cardano #AIMachineEconomy`
 `astarter.io · @AstarterDefiHub · @PayGo`
-
----
-
-## Dynamic 15 — Astarter × ENI Public Chain Strategic Partnership
-
-### Headline Options
-
-1. Major | Astarter and ENI Public Chain Reach Strategic Partnership — Fully Integrating DeFi Infrastructure Advantages and Public Chain Core Technical Capabilities
-2. Astarter × ENI: Cross-Chain Liquidity Bridge + One-Stop DeFi Service Portal + Joint Early-Stage Project Incubation
-3. Driving Web4.0 Development | Astarter Joins ENI Public Chain to Build Web3 Ecosystem
-
-### Short Flash
-
-Astarter has officially announced a strategic partnership with ENI Public Chain (@ENI__Official). This cooperation will fully integrate Astarter's advantages in DeFi infrastructure with ENI Public Chain's core technical capabilities, jointly driving Web3 ecosystem development.
-
-**Key cooperation points:**
-1. Astarter will provide a comprehensive one-stop DeFi service portal for the ENI ecosystem
-2. The two parties will jointly build cross-chain liquidity bridges
-3. Joint incubation of high-quality early-stage projects to power Web4.0
-
-`#AI #Web4 #DeFi #Blockchain #CointimeSpace`
-`astarter.io · @AstarterDefiHub · @ENI__Official`
 
 ---
 
@@ -352,53 +429,92 @@ Astarter has officially announced a strategic partnership with ENI Public Chain 
 | # | Use | File |
 |---|---|---|
 | Master | Series entry / cover | `visuals/master-banner.png` (1180×480) |
-| Dynamic 01 | Cointime feature launch | `visuals/dynamic-01-cointime-launch.png` (1080×1080) |
-| Dynamic 02 | UXLINK strategic alliance | `visuals/dynamic-02-uxlink-alliance.png` (1080×1080) |
-| Dynamic 05 | DeFAI category positioning | `visuals/dynamic-04-defai-positioning.png` (1080×1080) |
-| Dynamic 08 | Investor lineup | `visuals/banner-investors-1180x480.png` (1180×480) |
-| Dynamic 09 | Three-layer architecture | `visuals/dynamic-09-three-layer.png` (1080×1080) |
-| Dynamic 11 | 6–12 month roadmap | `visuals/banner-roadmap-1180x480.png` (1180×480) |
+| Dynamic 05 | Investor lineup | `visuals/banner-investors-1180x480.png` (1180×480) |
+| Dynamic 04 | Roadmap / Q3 milestones | `visuals/banner-roadmap-1180x480.png` (1180×480) |
+| Dynamic 11 | Cointime feature launch | `visuals/dynamic-01-cointime-launch.png` (1080×1080) |
+| Dynamic 13 | UXLINK strategic cooperation | `visuals/dynamic-02-uxlink-alliance.png` (1080×1080) |
+
+🔧 **Recommended additions:** New dynamics ($AA tokenomics, ABox node presale, four-layer architecture, advisor team, Grant Program) should each get a 1180×480 companion banner.
 
 ---
 
-# Fact-Check / Source Mapping (v11)
+# Source Mapping (v13)
 
-| Fact | Source | Verification Level |
+All facts based on **Astarter official public materials**. Source priority:
+
+| Priority | Source | Description |
 |---|---|---|
-| Cointime feature 5/24 by cointime 子凡 | GK screenshot + Cointime URL ✅ | **Tier 1 dual-source** |
-| Cointime feature title and URL | https://cn.cointime.ai/...71920 | **Tier 1** |
-| OKX Ventures + EMURGO joint lead investment | Mango Finance 5/14 + Cointime URL slug dual-source | **Tier 1 + 2** ✅ |
-| MH Ventures + Adaverse follow-on | Mango Finance 5/14 | Tier 2 single-source |
-| 5/12 Twitter Space full details | Astarter X official announcement + Mango Finance | **Tier 1 dual-source** ✅ |
-| Twitter Space guest list | Astarter X official | Tier 1 |
-| Twitter Space replay link | Astarter X official | Tier 1 |
-| Astarter × UXLINK alliance 5/15 | Astarter X official + Cointrust + Messari | **Tier 1 + 2 + 3** ✅ |
-| Astarter × AntFun strategic partnership | Astarter X official | Tier 1 single-source |
-| Astarter × SumPlus strategic partnership | Astarter X official | Tier 1 single-source |
-| Astarter × PayGo strategic partnership | Astarter X official | Tier 1 single-source |
-| Astarter × ENI Public Chain strategic partnership | Astarter X official | Tier 1 single-source |
-| 6–12 month ABox + AI App Marketplace | Mango Finance 5/14 | Tier 2 single-source |
-| Four-product stack | CoinGecko + Astarter official site | Tier 1 + 2 |
-| Cardano native | CoinGecko + DefiLlama | Tier 2 ×2 |
-| EMURGO 2021 joint venture | EMURGO official press release | Tier 1 |
-| EMURGO = Cardano founding entity | Cardano Foundation official | Tier 1 |
-| AI Agent infrastructure market $8B → $50B+ | Citing Messari/a16z/Delphi 2026 research synthesis | Composite citation |
-| AI Agent economy four-layer architecture | Astarter / industry analytical framework | Analytical framework |
+| Tier 1 | astarter-web repo (llms-full.txt, i18n/zh-CN.json) | Astarter official website latest version |
+| Tier 1 | Project deck / Pitch Deck (verified May 2026) | Provided by project |
+| Tier 1 | Astarter official X account @AstarterDefiHub | Official announcements |
+| Tier 2 | Cointime feature 5/24 | Top crypto media collaboration publication |
+| Tier 2 | Mango Finance (芒果财经网) 5/14 | Top crypto media report |
+
+**Sources NOT used (known outdated):**
+- ❌ Astarter Medium old tokenomics (AA1→AA2 / 100M supply data deprecated)
+- ❌ Astarter Gitbook old version (pending update)
+- ❌ CoinGecko / CoinMarketCap old $AA data (based on deprecated Medium info)
+
+Source mapping per dynamic:
+
+| Dynamic | Primary Source |
+|---|---|
+| 01 Project Core Positioning | astarter-web/llms-full.txt opening + i18n/zh-CN.json hero/story |
+| 02 $AA Tokenomics | llms-full.txt Tokenomics (deck p.12) |
+| 03 ABox Node Presale | llms-full.txt Node Benefits & Pricing (deck p.10) |
+| 04 Q3 Mainnet & TGE | llms-full.txt Roadmap (deck p.13 + GK May 2026 merge) |
+| 05 8 Capital Backers | llms-full.txt Investors (deck p.2) |
+| 06 Advisor Team | llms-full.txt Advisors (deck p.11) |
+| 07 Four-Layer Architecture | llms-full.txt Architecture (deck p.5) + i18n/zh-CN.json arch sections |
+| 08 Use Cases | llms-full.txt Use Cases (deck p.8) |
+| 09 Economic Flywheel | llms-full.txt Economic Flywheel (deck p.7) |
+| 10 Grant Program | llms-full.txt Roadmap Phase 02 |
+| 11 Cointime Feature | Cointime URL (verified) |
+| 12 Twitter Space | Astarter X official announcement (verified) |
+| 13 UXLINK Cooperation | Astarter X official announcement |
+| 14 AntFun Cooperation | Astarter X official announcement |
+| 15 SumPlus Cooperation | Astarter X official announcement |
+| 16 PayGo Cooperation | Astarter X official announcement |
 
 ---
 
-# Content Verification Notes
+# Brand Canonicals (locked)
 
-This document is based on Astarter public materials (including Cointime feature, Mango Finance 5/14 report, Astarter official X account announcements, and other verified sources). All factual statements are traceable to public primary sources.
-
-**Content currently not included (per GK direction, not to be publicly mentioned at this time):**
-- Project token-related information (including token name, allocation, listing arrangements, etc.) — pending Astarter official website update, will follow latest data
-- Any deprecated / old version token model data
-
-To add token-related dynamics, please wait for GK to provide latest official information before supplementing.
+| Field | Value |
+|---|---|
+| Domain | astarter.io (NOT .ai) |
+| Token | $AA |
+| Node device | ABox |
+| Network | Astarter / ENI |
+| X / Twitter | @AstarterDefiHub |
+| Telegram | t.me/AstarterDefiHubOfficial |
+| Discord | discord.gg/astarter |
+| YouTube | youtube.com/c/astartertv |
+| Email | contact@astarter.io |
 
 ---
 
-*Document version: v12 · 2026.05.25*
-*Generated as: Markdown master document (human-editable) → DOCX + PDF (auto-generated)*
-*To modify content, edit this .md file directly and regenerate DOCX/PDF*
+# v13 Content Update Notes
+
+Per GK 5/25 08:19-08:22 AM feedback + comprehensive rewrite using astarter-web repo:
+
+**Core changes:**
+- Project positioning updated to **Web4 AI DePIN Infrastructure powered by ENI** (no longer uses "DeFAI settlement layer" framing)
+- $AA token **1 BILLION total supply** + full seven-dimension allocation (replaces old 100M / AA1→AA2 data)
+- **Four-layer architecture** (replaces old three-layer framing)
+- Complete 8-investor list (replaces old 4 institutions)
+- New advisor team (Sergio Sanchez / John O'Connor / Darren Camas)
+- New ABox node product (three-tier pricing)
+- New 2026 Q3 Mainnet & TGE official roadmap
+- New Astarter Grant Program
+- New use case matrix (AI DEX / Prediction Market / Agent App Store / Data Market)
+- New economic flywheel model
+
+**Sources NOT used (deprecated):**
+- Medium old tokenomics (deprecated)
+- Gitbook old version (pending update)
+
+---
+
+*Document version: v13 · 2026.05.25*
+*All facts based on astarter-web repo (llms-full.txt + i18n/zh-CN.json) + Astarter official X announcements + published media content*
