@@ -1,9 +1,9 @@
 # Astarter Project Promotional Content
 
-**Full Media Pack · English Version · v13.1**
+**Full Media Pack · English Version · v14**
 2026.05.25
 
-17 project dynamics · Full short flashes · Headline options · Companion visuals
+18 project dynamics · Full short flashes · Headline options · Companion visuals
 Project introduction + 9 core advantages + source mapping
 
 🌐 astarter.io · 🐦 @AstarterDefiHub
@@ -85,9 +85,9 @@ Astarter has publicly published the "On-Chain Economic Flywheel" — a four-stag
 
 ---
 
-# III. Recent Project Dynamics (17 entries)
+# III. Recent Project Dynamics (18 entries)
 
-The following 17 project dynamics can each be independently distributed to any crypto media outlet. Each includes 3 headline options and a short flash. All facts come from verified sources: Astarter official website, project deck, X announcements.
+The following 18 project dynamics can each be independently distributed to any crypto media outlet. Each includes 3 headline options and a short flash. All facts come from verified sources: Astarter official website, project deck, X announcements.
 
 ---
 
@@ -446,6 +446,29 @@ Astarter has officially announced a strategic partnership with ENI Public Chain 
 
 ---
 
+## Dynamic 18 — 2026 Q4 Roadmap: AI DEX + Agent App Store + Multi-Chain Integration + More Compute Nodes
+
+### Headline Options
+
+1. Astarter 2026 Q4 Roadmap Released — AI DEX + Agent App Store + Multi-Chain Integration + More Compute Nodes
+2. Following Q3 Mainnet | Astarter Phase Three Roadmap Q4 Launches AI DEX and ABox Agent App Store
+3. From Infrastructure to Application Ecosystem | Astarter 2026 Q4 Completes Full Application Layer Rollout
+
+### Short Flash
+
+Following the 2026 Q3 Mainnet Launch and TGE, Astarter has publicly released the 2026 Q4 Phase Three roadmap, advancing four core milestones centered on the application layer and ecosystem expansion:
+
+1. **AI DEX** — AI-optimized decentralized exchange, with AI agents executing trades, market-making, and arbitrage
+2. **ABox Agent App Store** — Agent application marketplace launches, where developers can list AI Agent applications for users to purchase, deploy, or rent
+3. **Multi-Chain Integration** — Deep integration with mainstream blockchain ecosystems, expanding cross-chain AI Agent economic activity coverage
+4. **More Compute Nodes** — Continued global ABox compute node expansion, strengthening the execution foundation for AI agents
+
+Q4 milestones form a complete roadmap combination with Phase Q3 (Mainnet + TGE + ABox Node Plan + Grant Program), marking Astarter's full rollout from infrastructure layer to application ecosystem.
+
+`astarter.io · @AstarterDefiHub`
+
+---
+
 # Companion Visual Asset List
 
 | # | Use | File |
@@ -498,6 +521,7 @@ Source mapping per dynamic:
 | 15 SumPlus Cooperation | Astarter X official announcement |
 | 16 PayGo Cooperation | Astarter X official announcement |
 | 17 ENI Public Chain Cooperation | Astarter X official announcement |
+| 18 2026 Q4 Roadmap | astarter-web/llms-full.txt Roadmap (deck p.13) + i18n roadmap section |
 
 ---
 
@@ -539,5 +563,17 @@ Per GK 5/25 08:19-08:22 AM feedback + comprehensive rewrite using astarter-web r
 
 ---
 
-*Document version: v13.1 · 2026.05.25*
+*Document version: v14 · 2026.05.25*
+
+---
+
+# v14 Update Notes (vs v13.1)
+
+Per GK 5/25 08:55 AM feedback "Update the website's 2026 roadmap":
+- NEW Dynamic 18: 2026 Q4 Roadmap (AI DEX + Agent App Store + Multi-Chain Integration + More Compute Nodes)
+- Dynamic count: 17 → 18
+
+**Pending GK data before adding:**
+- DAU / WAU / MAU community active-user metrics (GK mentioned 5/25 08:55 but specific numbers not yet provided)
+- Once numbers received, can add as Dynamic 19 "Astarter Community Active User Metrics Released"
 *All facts based on astarter-web repo (llms-full.txt + i18n/zh-CN.json) + Astarter official X announcements + published media content*
