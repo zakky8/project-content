@@ -1,9 +1,9 @@
 # Astarter 项目动态宣发内容
 
-**完整内容包 · 中文版 · v13**
+**完整内容包 · 中文版 · v13.1**
 2026.05.25
 
-16 个项目动态 · 完整短稿 · 标题备选 · 配套主图
+17 个项目动态 · 完整短稿 · 标题备选 · 配套主图
 项目简介 + 9 项核心优势 + 来源对照
 
 🌐 astarter.io · 🐦 @AstarterDefiHub
@@ -13,7 +13,7 @@
 
 # 一、Astarter 项目简介
 
-**Astarter 是为自主 AI 经济打造的基础设施 —— Web4 DePIN AI 原生网络，由 ENI 驱动。**
+**Astarter 是为自主 AI 经济打造的基础设施 —— Web4 DePIN AI 原生网络。**
 
 Astarter 将去中心化的 AI 智能体网络、DePIN 算力层与链上执行能力整合到一个统一堆栈，使自主 AI 智能体能够在链上独立运行、协调，并产生真实经济价值。
 
@@ -33,7 +33,7 @@ Astarter 已获 **OKX Ventures、EMURGO、Adaverse、MH Ventures、Avatar Capita
 
 ## 01 · Web4 AI DePIN 基础设施定位
 
-由 ENI 驱动的去中心化 AI 网络，将 DePIN 算力与链上执行结合，使自主 AI 智能体能够在 Cardano 及更多公链生态中运行、协调、产生真实经济价值。这是当前 AI × Crypto 类别中少数将 AI + DePIN + 链上执行整合到单一堆栈的项目方案。
+去中心化 AI 网络，将 DePIN 算力与链上执行结合，使自主 AI 智能体能够在 Cardano 及更多公链生态中运行、协调、产生真实经济价值。这是当前 AI × Crypto 类别中少数将 AI + DePIN + 链上执行整合到单一堆栈的项目方案。
 
 ## 02 · 8 家机构资本背书
 
@@ -85,9 +85,9 @@ Astarter 公开「链上经济飞轮」四阶段循环：应用产生需求 → 
 
 ---
 
-# 三、近期项目动态（16 条）
+# 三、近期项目动态（17 条）
 
-以下 16 条项目动态可独立投放任意中文加密媒体，每条均包含 3 个标题备选与短稿。所有事实均来自 Astarter 官方网站、项目手册、X 公告等已验证来源。
+以下 17 条项目动态可独立投放任意中文加密媒体，每条均包含 3 个标题备选与短稿。所有事实均来自 Astarter 官方网站、项目手册、X 公告等已验证来源。
 
 ---
 
@@ -95,13 +95,13 @@ Astarter 公开「链上经济飞轮」四阶段循环：应用产生需求 → 
 
 ### 标题备选
 
-1. Astarter 正式定位 Web4 AI DePIN 基础设施 由 ENI 驱动
+1. Astarter 正式定位 Web4 AI DePIN 基础设施
 2. 为自主 AI 经济打造的基础设施 — Astarter 公开核心定位
 3. Web4 DePIN AI 原生网络 Astarter 完整定位解读
 
 ### 短稿
 
-Astarter 正式确立项目核心定位：**为自主 AI 经济打造的基础设施 —— Web4 DePIN AI 原生网络，由 ENI 驱动。**项目将去中心化 AI 智能体网络、DePIN 算力层与链上执行能力整合到统一堆栈，使自主 AI 智能体能够在 Cardano 及更多公链生态中独立运行、协调，并产生真实经济价值。这是当前 AI × Crypto 类别中少数将 AI + DePIN + 链上执行整合到单一堆栈的项目方案。
+Astarter 正式确立项目核心定位：**为自主 AI 经济打造的基础设施 —— Web4 DePIN AI 原生网络。**项目将去中心化 AI 智能体网络、DePIN 算力层与链上执行能力整合到统一堆栈，使自主 AI 智能体能够在 Cardano 及更多公链生态中独立运行、协调，并产生真实经济价值。这是当前 AI × Crypto 类别中少数将 AI + DePIN + 链上执行整合到单一堆栈的项目方案。
 
 `astarter.io · @AstarterDefiHub`
 
@@ -424,6 +424,28 @@ Astarter 宣布与 PayGo (@PayGo) 达成战略合作。AI 原生支付与多链 
 
 ---
 
+## 动态 17 — Astarter × ENI 公链战略合作
+
+### 标题备选
+
+1. 重磅 | Astarter 与 ENI 公链达成战略合作 全面整合 DeFi 基础设施优势与公链核心技术能力
+2. Astarter × ENI：跨链流动性桥 + 一站式 DeFi 服务门户 + 早期项目联合孵化
+3. 推动 Web4.0 发展 | Astarter 携 ENI 公链共建 Web3 生态
+
+### 短稿
+
+Astarter 宣布与 ENI 公链 (@ENI__Official) 正式达成战略合作。本次合作将全面整合 Astarter 在 DeFi 基础设施方面的优势与 ENI 公链的核心技术能力，共同推动 Web3 生态发展。
+
+**关键合作要点：**
+1. Astarter 将为 ENI 生态提供全面的一站式 DeFi 服务门户
+2. 双方将共同建设跨链流动性桥
+3. 联合孵化高质量早期项目，赋能 Web4.0
+
+`#AI #Web4 #DeFi #Blockchain #CointimeSpace`
+`astarter.io · @AstarterDefiHub · @ENI__Official`
+
+---
+
 # 配套配图清单
 
 | 编号 | 用途 | 文件 |
@@ -475,6 +497,7 @@ Astarter 宣布与 PayGo (@PayGo) 达成战略合作。AI 原生支付与多链 
 | 14 AntFun 战略合作 | Astarter X 官方公告 |
 | 15 SumPlus 战略合作 | Astarter X 官方公告 |
 | 16 PayGo 战略合作 | Astarter X 官方公告 |
+| 17 ENI 公链战略合作 | Astarter X 官方公告 |
 
 ---
 
@@ -485,7 +508,7 @@ Astarter 宣布与 PayGo (@PayGo) 达成战略合作。AI 原生支付与多链 
 | 域名 | astarter.io（不是 .ai）|
 | 代币 | $AA |
 | 节点设备 | ABox |
-| 网络 | Astarter / ENI |
+| 网络 | Astarter（Cardano 原生 + 跨链扩展）|
 | X / Twitter | @AstarterDefiHub |
 | Telegram | t.me/AstarterDefiHubOfficial |
 | Discord | discord.gg/astarter |
@@ -499,7 +522,7 @@ Astarter 宣布与 PayGo (@PayGo) 达成战略合作。AI 原生支付与多链 
 按 GK 5/25 08:19-08:22 AM 反馈 + astarter-web 仓库提供的最新数据全面重构：
 
 **核心变化：**
-- 项目定位更新为 **Web4 AI DePIN 基础设施 powered by ENI**（不再使用「DeFAI 清算层」框架）
+- 项目定位更新为 **Web4 AI DePIN 基础设施**（不再使用「DeFAI 清算层」框架；ENI 是合作公链不是 Astarter 底层网络）
 - $AA 代币 **10 亿总量** + 完整七大分配维度（取代旧版 100M / AA1→AA2 数据）
 - **四层架构**（取代旧版三层架构）
 - 完整 8 家投资机构（取代旧版 4 家）
@@ -516,5 +539,5 @@ Astarter 宣布与 PayGo (@PayGo) 达成战略合作。AI 原生支付与多链 
 
 ---
 
-*文档版本：v13 · 2026.05.25*
+*文档版本：v13.1 · 2026.05.25*
 *所有事实基于 astarter-web 仓库（llms-full.txt + i18n/zh-CN.json）+ Astarter 官方 X 公告 + 已发布媒体内容*

@@ -1,9 +1,9 @@
 # Astarter Project Promotional Content
 
-**Full Media Pack · English Version · v13**
+**Full Media Pack · English Version · v13.1**
 2026.05.25
 
-16 project dynamics · Full short flashes · Headline options · Companion visuals
+17 project dynamics · Full short flashes · Headline options · Companion visuals
 Project introduction + 9 core advantages + source mapping
 
 🌐 astarter.io · 🐦 @AstarterDefiHub
@@ -13,7 +13,7 @@ Project introduction + 9 core advantages + source mapping
 
 # I. Astarter Project Introduction
 
-**Astarter is infrastructure built for the Autonomous AI Economy — a Web4 DePIN AI-native network, powered by ENI.**
+**Astarter is infrastructure built for the Autonomous AI Economy — a Web4 DePIN AI-native network.**
 
 Astarter integrates a decentralized AI Agent network, DePIN compute layer, and on-chain execution capability into a unified stack, enabling autonomous AI agents to operate, coordinate, and generate real economic value on-chain.
 
@@ -33,7 +33,7 @@ The following 9 core advantages are based on Astarter's official public material
 
 ## 01 · Web4 AI DePIN Infrastructure Positioning
 
-A decentralized AI network powered by ENI, combining DePIN compute with on-chain execution, enabling autonomous AI agents to operate, coordinate, and generate real economic value on Cardano and beyond. This is one of the few project approaches in the current AI × Crypto category that integrates AI + DePIN + on-chain execution into a single stack.
+A decentralized AI network combining DePIN compute with on-chain execution, enabling autonomous AI agents to operate, coordinate, and generate real economic value on Cardano and beyond. This is one of the few project approaches in the current AI × Crypto category that integrates AI + DePIN + on-chain execution into a single stack.
 
 ## 02 · 8 Institutional Capital Backers
 
@@ -85,9 +85,9 @@ Astarter has publicly published the "On-Chain Economic Flywheel" — a four-stag
 
 ---
 
-# III. Recent Project Dynamics (16 entries)
+# III. Recent Project Dynamics (17 entries)
 
-The following 16 project dynamics can each be independently distributed to any crypto media outlet. Each includes 3 headline options and a short flash. All facts come from verified sources: Astarter official website, project deck, X announcements.
+The following 17 project dynamics can each be independently distributed to any crypto media outlet. Each includes 3 headline options and a short flash. All facts come from verified sources: Astarter official website, project deck, X announcements.
 
 ---
 
@@ -95,13 +95,13 @@ The following 16 project dynamics can each be independently distributed to any c
 
 ### Headline Options
 
-1. Astarter Officially Positions as Web4 AI DePIN Infrastructure Powered by ENI
+1. Astarter Officially Positions as Web4 AI DePIN Infrastructure
 2. Infrastructure for the Autonomous AI Economy — Astarter Publishes Core Positioning
 3. Web4 DePIN AI-Native Network — Astarter Complete Positioning Decoded
 
 ### Short Flash
 
-Astarter has formally established its project core positioning: **infrastructure built for the Autonomous AI Economy — a Web4 DePIN AI-native network, powered by ENI.** The project integrates a decentralized AI Agent network, DePIN compute layer, and on-chain execution capability into a unified stack, enabling autonomous AI agents to independently operate, coordinate, and generate real economic value on Cardano and beyond. This is one of the few project approaches in the current AI × Crypto category that integrates AI + DePIN + on-chain execution into a single stack.
+Astarter has formally established its project core positioning: **infrastructure built for the Autonomous AI Economy — a Web4 DePIN AI-native network.** The project integrates a decentralized AI Agent network, DePIN compute layer, and on-chain execution capability into a unified stack, enabling autonomous AI agents to independently operate, coordinate, and generate real economic value on Cardano and beyond. This is one of the few project approaches in the current AI × Crypto category that integrates AI + DePIN + on-chain execution into a single stack.
 
 `astarter.io · @AstarterDefiHub`
 
@@ -424,6 +424,28 @@ Astarter has announced strategic cooperation with PayGo (@PayGo). The combinatio
 
 ---
 
+## Dynamic 17 — Astarter × ENI Public Chain Strategic Partnership
+
+### Headline Options
+
+1. Major | Astarter and ENI Public Chain Reach Strategic Partnership — Fully Integrating DeFi Infrastructure Advantages and Public Chain Core Technical Capabilities
+2. Astarter × ENI: Cross-Chain Liquidity Bridge + One-Stop DeFi Service Portal + Joint Early-Stage Project Incubation
+3. Driving Web4.0 Development | Astarter Joins ENI Public Chain to Build Web3 Ecosystem
+
+### Short Flash
+
+Astarter has officially announced a strategic partnership with ENI Public Chain (@ENI__Official). This cooperation will fully integrate Astarter's advantages in DeFi infrastructure with ENI Public Chain's core technical capabilities, jointly driving Web3 ecosystem development.
+
+**Key cooperation points:**
+1. Astarter will provide a comprehensive one-stop DeFi service portal for the ENI ecosystem
+2. The two parties will jointly build cross-chain liquidity bridges
+3. Joint incubation of high-quality early-stage projects to power Web4.0
+
+`#AI #Web4 #DeFi #Blockchain #CointimeSpace`
+`astarter.io · @AstarterDefiHub · @ENI__Official`
+
+---
+
 # Companion Visual Asset List
 
 | # | Use | File |
@@ -475,6 +497,7 @@ Source mapping per dynamic:
 | 14 AntFun Cooperation | Astarter X official announcement |
 | 15 SumPlus Cooperation | Astarter X official announcement |
 | 16 PayGo Cooperation | Astarter X official announcement |
+| 17 ENI Public Chain Cooperation | Astarter X official announcement |
 
 ---
 
@@ -485,7 +508,7 @@ Source mapping per dynamic:
 | Domain | astarter.io (NOT .ai) |
 | Token | $AA |
 | Node device | ABox |
-| Network | Astarter / ENI |
+| Network | Astarter (Cardano-native + cross-chain expansion) |
 | X / Twitter | @AstarterDefiHub |
 | Telegram | t.me/AstarterDefiHubOfficial |
 | Discord | discord.gg/astarter |
@@ -499,7 +522,7 @@ Source mapping per dynamic:
 Per GK 5/25 08:19-08:22 AM feedback + comprehensive rewrite using astarter-web repo:
 
 **Core changes:**
-- Project positioning updated to **Web4 AI DePIN Infrastructure powered by ENI** (no longer uses "DeFAI settlement layer" framing)
+- Project positioning updated to **Web4 AI DePIN Infrastructure** (no longer uses "DeFAI settlement layer" framing; ENI is a partner public chain, NOT Astarter's underlying network)
 - $AA token **1 BILLION total supply** + full seven-dimension allocation (replaces old 100M / AA1→AA2 data)
 - **Four-layer architecture** (replaces old three-layer framing)
 - Complete 8-investor list (replaces old 4 institutions)
@@ -516,5 +539,5 @@ Per GK 5/25 08:19-08:22 AM feedback + comprehensive rewrite using astarter-web r
 
 ---
 
-*Document version: v13 · 2026.05.25*
+*Document version: v13.1 · 2026.05.25*
 *All facts based on astarter-web repo (llms-full.txt + i18n/zh-CN.json) + Astarter official X announcements + published media content*
