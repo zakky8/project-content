@@ -1,7 +1,7 @@
 # Astarter Project Promotional Content
 
-**Full Media Pack · English Version · v11.1**
-2026.05.24
+**Full Media Pack · English Version · v12**
+2026.05.25
 
 15 project dynamics · Full short flashes · Headline options · Companion visuals
 Project introduction + 9 core advantages + fact-check table
@@ -387,30 +387,18 @@ Astarter has officially announced a strategic partnership with ENI Public Chain 
 
 ---
 
-# v11 Revision Notes (vs v10)
+# Content Verification Notes
 
-Per GK 5/24 22:53 PM feedback:
+This document is based on Astarter public materials (including Cointime feature, Mango Finance 5/14 report, Astarter official X account announcements, and other verified sources). All factual statements are traceable to public primary sources.
 
-**Removed (AA Token related, per GK "don't mention for now"):**
-- ❌ Original Dynamic 06: AA Token AA1→AA2 transition
-- ❌ Original Advantage 09: AA Token economic model foundation
-- ❌ Original Dynamic 20: MULAN Points integration (contained native token redemption / airdrop incentive language)
-- ❌ Original Dynamic 11 phrase "completed tokenomics foundation work (AA1→AA2 transition)"
+**Content currently not included (per GK direction, not to be publicly mentioned at this time):**
+- Project token-related information (including token name, allocation, listing arrangements, etc.) — pending Astarter official website update, will follow latest data
+- Any deprecated / old version token model data
 
-**Removed (per GK "lots of overlap"):**
-- ❌ Original Dynamic 12: Media coverage accumulation (duplicate of Dynamic 01, 03, Project intro)
-- ❌ Original Dynamic 15: DeFAI 真实落地 (summary duplicate of other dynamics)
-
-**Merged:**
-- 🔀 Original Dynamic 13 (ABox nodes) + Original Dynamic 14 (AI App Marketplace) → New Dynamic 11 "6-12 Month Roadmap"
-
-**Result:**
-- 20 dynamics → **15 dynamics** (4 deleted + 2 merged into 1)
-- 10 advantages → **9 advantages**
-- Tighter content, no duplication, no AA Token references
+To add token-related dynamics, please wait for GK to provide latest official information before supplementing.
 
 ---
 
-*Document version: v11.1 · 2026.05.24*
+*Document version: v12 · 2026.05.25*
 *Generated as: Markdown master document (human-editable) → DOCX + PDF (auto-generated)*
 *To modify content, edit this .md file directly and regenerate DOCX/PDF*
