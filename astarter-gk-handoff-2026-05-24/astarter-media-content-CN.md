@@ -1,9 +1,9 @@
 # Astarter 项目动态宣发内容
 
-**完整内容包 · 中文版 · v14**
+**完整内容包 · 中文版 · v15**
 2026.05.25
 
-18 个项目动态 · 完整短稿 · 标题备选 · 配套主图
+19 个项目动态 · 完整短稿 · 标题备选 · 配套主图
 项目简介 + 9 项核心优势 + 来源对照
 
 🌐 astarter.io · 🐦 @AstarterDefiHub
@@ -85,9 +85,9 @@ Astarter 公开「链上经济飞轮」四阶段循环：应用产生需求 → 
 
 ---
 
-# 三、近期项目动态（18 条）
+# 三、近期项目动态（19 条）
 
-以下 18 条项目动态可独立投放任意中文加密媒体，每条均包含 3 个标题备选与短稿。所有事实均来自 Astarter 官方网站、项目手册、X 公告等已验证来源。
+以下 19 条项目动态可独立投放任意中文加密媒体，每条均包含 3 个标题备选与短稿。所有事实均来自 Astarter 官方网站、项目手册、X 公告等已验证来源。
 
 ---
 
@@ -469,6 +469,27 @@ Q4 里程碑与 Q3 阶段（Mainnet + TGE + ABox 节点计划 + Grant Program）
 
 ---
 
+## 动态 19 — Astarter × X-Agent 战略合作
+
+### 标题备选
+
+1. Astarter 与 X-Agent 达成战略合作 共建 Web4 AI Agent 经济基础设施
+2. 重磅 | Astarter × X-Agent 战略合作 推动 AI 智能体生态深度协同
+3. 战略矩阵再扩展 | Astarter 携手 X-Agent 共建自主 AI Agent 经济
+
+### 短稿
+
+Astarter 宣布与 X-Agent 达成战略合作，双方将围绕 Web4 AI Agent 经济基础设施进行深度协同。Astarter 的 AI 原生 DePIN 基础设施与自主 AI Agent 执行能力，结合 X-Agent 在 AI 智能体领域的专业能力，将共同推动自主 AI Agent 生态的下一阶段发展。
+
+本次合作进一步扩展了 Astarter 的战略合作矩阵 —— 在 UXLINK（社交分发）、AntFun（社交 DEX）、SumPlus（MCP DeFi 数据）、PayGo（AI 原生支付）、ENI（公链跨链）之后，X-Agent 加入了这一覆盖 AI Agent 经济多个关键维度的合作网络。
+
+具体产品集成路径、联合公关安排以及生态协同的具体细节将在后续公告中公布。
+
+**配图：** `visuals/banner-astarter-x-xagent-1180x480.png`（待生成，参见 `visuals/PROMPT-ASTARTER-X-XAGENT-BANNER.md`）
+`astarter.io · @AstarterDefiHub · @X-Agent`
+
+---
+
 # 配套配图清单
 
 | 编号 | 用途 | 文件 |
@@ -522,6 +543,7 @@ Q4 里程碑与 Q3 阶段（Mainnet + TGE + ABox 节点计划 + Grant Program）
 | 16 PayGo 战略合作 | Astarter X 官方公告 |
 | 17 ENI 公链战略合作 | Astarter X 官方公告 |
 | 18 2026 Q4 路线图 | astarter-web/llms-full.txt Roadmap (deck p.13) + i18n roadmap 部分 |
+| 19 X-Agent 战略合作 | GK 提供（含 X-Agent 官方 logo 包）|
 
 ---
 
@@ -563,17 +585,20 @@ Q4 里程碑与 Q3 阶段（Mainnet + TGE + ABox 节点计划 + Grant Program）
 
 ---
 
-*文档版本：v14 · 2026.05.25*
+*文档版本：v15 · 2026.05.25*
 
 ---
 
-# v14 更新说明（vs v13.1）
+# v15 更新说明（vs v14）
 
-按 GK 5/25 08:55 AM 反馈 "官网的 roadmap 更新一下 2026 年的"：
-- 新增动态 18：2026 Q4 路线图（AI DEX + Agent 应用商店 + 多链集成 + 算力节点扩展）
-- 动态总数：17 → 18
+按 GK 5/25 反馈新增 X-Agent 战略合作动态：
+- 新增动态 19：Astarter × X-Agent 战略合作
+- 动态总数：18 → 19
+- 配套 banner 提示词已生成 → `visuals/PROMPT-ASTARTER-X-XAGENT-BANNER.md`
+- X-Agent 官方 logo 已归档 → `visuals/x-agent-logos/`
 
 **待 GK 提供数据后再补充：**
-- DAU / WAU / MAU 社区活跃用户数据（GK 5/25 08:55 提及，但具体数字尚未提供）
-- 收到数字后可补充为动态 19「Astarter 社区活跃用户数据公布」
+- DAU / WAU / MAU 社区活跃用户数据
+- X-Agent 合作的具体产品集成时间表 / 联合公关安排（如有）
+- Astarter × X-Agent 最终 banner 图（待按 prompt 生成 + Figma 合成 logo 后）
 *所有事实基于 astarter-web 仓库（llms-full.txt + i18n/zh-CN.json）+ Astarter 官方 X 公告 + 已发布媒体内容*
