@@ -577,3 +577,27 @@ Q4 里程碑与 Q3 阶段（Mainnet + TGE + ABox 节点计划 + Grant Program）
 - DAU / WAU / MAU 社区活跃用户数据（GK 5/25 08:55 提及，但具体数字尚未提供）
 - 收到数字后可补充为动态 19「Astarter 社区活跃用户数据公布」
 *所有事实基于 astarter-web 仓库（llms-full.txt + i18n/zh-CN.json）+ Astarter 官方 X 公告 + 已发布媒体内容*
+
+---
+
+# v15 更新说明（vs v14）
+
+新增动态 19：Astarter × X-Agent 战略合作（基于 xagt.ai 一手来源 + GlobeNewswire 公告）
+- 动态总数：18 → 19
+
+---
+
+## 动态 19 · Astarter × X-Agent 战略合作
+
+**标题备选（3 条）：**
+1. Astarter 与 X-Agent 达成战略合作，共建 Web4 自主 AI Agent 经济体系
+2. 强强联手｜Astarter × X-Agent，打通 AI Agent 基础设施与应用生态
+3. Astarter 携手 XerpaAI 旗下 X-Agent，加速 AI Agent OS 与 Web4 DePIN 融合落地
+
+**短稿（约 150 字）：**
+
+Astarter 与 AI Agent 基础设施平台 X-Agent（隶属于 XerpaAI，UFLY Capital 领投 600 万美元种子轮）正式达成战略合作。X-Agent 构建了"Agent OS"多智能体协作系统，支持用户通过自然语言描述一键部署自主 Agent，客户群体 80% 来自区块链行业。双方合作将以 Astarter Web4 DePIN 基础设施（L1–L4 四层架构 + ABox 算力节点）作为底层支撑，X-Agent Agent OS 与 Agent 应用商店作为 L4 应用层，共同构建可规模化的自主 AI Agent 经济基础设施栈。
+
+**视觉参考：** Astarter × X-Agent 战略合作横幅（1180×480，品牌色：紫色 #2D1B69 × 薄荷绿 #3DE8A7）
+
+`来源：xagt.ai（一手） · GlobeNewswire 2025.07 · CoinTrust 2026.05.15`

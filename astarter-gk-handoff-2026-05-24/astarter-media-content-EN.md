@@ -577,3 +577,27 @@ Per GK 5/25 08:55 AM feedback "Update the website's 2026 roadmap":
 - DAU / WAU / MAU community active-user metrics (GK mentioned 5/25 08:55 but specific numbers not yet provided)
 - Once numbers received, can add as Dynamic 19 "Astarter Community Active User Metrics Released"
 *All facts based on astarter-web repo (llms-full.txt + i18n/zh-CN.json) + Astarter official X announcements + published media content*
+
+---
+
+# v15 Update Notes (vs v14)
+
+Added Dynamic 19: Astarter × X-Agent Strategic Partnership (based on xagt.ai primary source + GlobeNewswire announcements)
+- Dynamic count: 18 → 19
+
+---
+
+## Dynamic 19 · Astarter × X-Agent Strategic Partnership
+
+**Headline Options (3):**
+1. Astarter and X-Agent Form Strategic Partnership to Power the Web4 Autonomous AI Agent Economy
+2. Astarter × X-Agent: Connecting Web4 DePIN Infrastructure with the AI Agent Application Layer
+3. Astarter Partners with XerpaAI's X-Agent to Accelerate AI Agent OS and Web4 DePIN Integration
+
+**Flash (~120 words):**
+
+Astarter has entered into a strategic partnership with X-Agent, the AI Agent OS platform developed by XerpaAI ($6M seed round led by UFLY Capital). X-Agent enables users to deploy autonomous agents in under a minute through plain-English descriptions, with its multi-agent "Agent OS" architecture serving a client base that is 80% blockchain-native. The partnership positions Astarter's Web4 DePIN infrastructure (L1–L4 four-layer architecture + ABox compute nodes) as the decentralized foundation, with X-Agent's Agent OS and Agent App Store operating at the L4 application layer — together building a full-stack infrastructure for a scalable autonomous AI Agent economy.
+
+**Visual reference:** Astarter × X-Agent strategic partnership banner (1180×480, brand colors: violet #2D1B69 × mint green #3DE8A7)
+
+`Sources: xagt.ai (primary) · GlobeNewswire 2025.07 · CoinTrust 2026.05.15`
