@@ -1,9 +1,9 @@
 # Astarter Project Promotional Content
 
-**Full Media Pack · English Version · v15**
+**Full Media Pack · English Version · v14**
 2026.05.25
 
-19 project dynamics · Full short flashes · Headline options · Companion visuals
+18 project dynamics · Full short flashes · Headline options · Companion visuals
 Project introduction + 9 core advantages + source mapping
 
 🌐 astarter.io · 🐦 @AstarterDefiHub
@@ -85,9 +85,9 @@ Astarter has publicly published the "On-Chain Economic Flywheel" — a four-stag
 
 ---
 
-# III. Recent Project Dynamics (19 entries)
+# III. Recent Project Dynamics (18 entries)
 
-The following 19 project dynamics can each be independently distributed to any crypto media outlet. Each includes 3 headline options and a short flash. All facts come from verified sources: Astarter official website, project deck, X announcements.
+The following 18 project dynamics can each be independently distributed to any crypto media outlet. Each includes 3 headline options and a short flash. All facts come from verified sources: Astarter official website, project deck, X announcements.
 
 ---
 
@@ -469,27 +469,6 @@ Q4 milestones form a complete roadmap combination with Phase Q3 (Mainnet + TGE +
 
 ---
 
-## Dynamic 19 — Astarter × X-Agent Strategic Partnership
-
-### Headline Options
-
-1. Astarter and X-Agent Reach Strategic Partnership — Co-Building Web4 AI Agent Economy Infrastructure
-2. Major | Astarter × X-Agent Strategic Partnership Drives Deep AI Agent Ecosystem Coordination
-3. Strategic Matrix Expands | Astarter Joins X-Agent to Co-Build Autonomous AI Agent Economy
-
-### Short Flash
-
-Astarter has announced a strategic partnership with X-Agent. The two parties will engage in deep coordination around Web4 AI Agent economy infrastructure. Astarter's AI-native DePIN infrastructure and autonomous AI Agent execution capability, combined with X-Agent's expertise in the AI agent domain, will jointly drive the next phase of autonomous AI Agent ecosystem development.
-
-This partnership further expands Astarter's strategic alliance matrix — following UXLINK (social distribution), AntFun (Social DEX), SumPlus (MCP DeFi data), PayGo (AI-native payment), and ENI (cross-chain public chain), X-Agent now joins this network covering multiple key dimensions of the AI Agent economy.
-
-Specific product integration paths, joint public relations arrangements, and ecosystem coordination details will be announced in subsequent communications.
-
-**Visual:** `visuals/banner-astarter-x-xagent-1180x480.png` (pending generation — see `visuals/PROMPT-ASTARTER-X-XAGENT-BANNER.md`)
-`astarter.io · @AstarterDefiHub · @X-Agent`
-
----
-
 # Companion Visual Asset List
 
 | # | Use | File |
@@ -543,7 +522,6 @@ Source mapping per dynamic:
 | 16 PayGo Cooperation | Astarter X official announcement |
 | 17 ENI Public Chain Cooperation | Astarter X official announcement |
 | 18 2026 Q4 Roadmap | astarter-web/llms-full.txt Roadmap (deck p.13) + i18n roadmap section |
-| 19 X-Agent Partnership | GK provided (with X-Agent official logo pack) |
 
 ---
 
@@ -585,20 +563,17 @@ Per GK 5/25 08:19-08:22 AM feedback + comprehensive rewrite using astarter-web r
 
 ---
 
-*Document version: v15 · 2026.05.25*
+*Document version: v14 · 2026.05.25*
 
 ---
 
-# v15 Update Notes (vs v14)
+# v14 Update Notes (vs v13.1)
 
-Per GK 5/25 feedback adding X-Agent strategic partnership:
-- NEW Dynamic 19: Astarter × X-Agent Strategic Partnership
-- Dynamic count: 18 → 19
-- Banner generation prompt ready → `visuals/PROMPT-ASTARTER-X-XAGENT-BANNER.md`
-- X-Agent official logos archived → `visuals/x-agent-logos/`
+Per GK 5/25 08:55 AM feedback "Update the website's 2026 roadmap":
+- NEW Dynamic 18: 2026 Q4 Roadmap (AI DEX + Agent App Store + Multi-Chain Integration + More Compute Nodes)
+- Dynamic count: 17 → 18
 
 **Pending GK data before adding:**
-- DAU / WAU / MAU community active-user metrics
-- X-Agent partnership specific product integration timeline / joint PR plans (if any)
-- Astarter × X-Agent final banner image (to be generated via prompt + Figma logo composite)
+- DAU / WAU / MAU community active-user metrics (GK mentioned 5/25 08:55 but specific numbers not yet provided)
+- Once numbers received, can add as Dynamic 19 "Astarter Community Active User Metrics Released"
 *All facts based on astarter-web repo (llms-full.txt + i18n/zh-CN.json) + Astarter official X announcements + published media content*
